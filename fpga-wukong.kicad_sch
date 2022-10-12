@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid bf72a8eb-63e1-4620-8b48-276566c7a5b8)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "- 40pin GPIO header\n- JTAG\n- 18 pin header re-route?\n- 2xPMOD re-route?\n- IO Expanders / Shift-registers to reduce required pin-count"
+    (at 105.41 100.33 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 09e5147d-71c0-4df7-be49-8da46861e99f)
+  )
+)

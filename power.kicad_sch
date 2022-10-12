@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 7ac895ee-6283-45fe-aadf-98c4b80f0482)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Power switch\n12DC_FUSED\n+5V\n+3.3V" (at 139.7 99.06 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 84a5dc91-fbaa-495b-992d-03fd15b66f97)
+  )
+)

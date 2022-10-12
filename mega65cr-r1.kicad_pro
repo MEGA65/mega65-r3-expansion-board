@@ -422,6 +422,18 @@
     [
       "ee5f4bc8-ae5c-44e7-a23d-2b06f471a294",
       "Joystick Ports"
+    ],
+    [
+      "46f1890f-c5bb-4aae-8808-0511f47e29d8",
+      "Reset, Digital Video"
+    ],
+    [
+      "cd7afc30-e644-4a23-9f17-325d3146c7db",
+      "Power"
+    ],
+    [
+      "2879178d-3b15-409b-b355-34424f0e3bd8",
+      "FPGA Interface QMTECH Wukong A100T"
     ]
   ],
   "text_variables": {}

@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid f014c24d-58ce-4026-9242-898687bc407f)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "HDMI back to back\nReset button\nEthernet back-to-back?\nJTAG + UART header (TE0790 and TEI0004 compatible?)"
+    (at 129.54 95.25 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 77c4ef8e-280f-472f-83d7-7c94005446ad)
+  )
+)
