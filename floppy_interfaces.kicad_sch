@@ -1462,6 +1462,11 @@
     (uuid ff010f9d-f867-48ee-a085-225fa2685051)
   )
 
+  (text "Commodore IEC serial and Shugard 34-pin floppy interfaces"
+    (at 190.5 190.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 266bbeab-6bef-4c22-9c08-bde76be7437e)
+  )
   (text "5V / 20mA = 250Ohm. 1K Ohm = 5mA" (at 62.23 129.54 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 39e475f8-ec62-43a6-9d33-e68a10ffc8a8)
@@ -1483,6 +1488,10 @@
   (text "IEC serial input lines require\n1uSec response" (at 95.25 78.74 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 9b71527c-5798-4bcf-8676-5f7f1084146c)
+  )
+  (text "12 October 2022" (at 209.55 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b7183438-179f-4080-a4b5-325f6ff4312a)
   )
 
   (label "WDATA" (at 72.39 44.45 0)

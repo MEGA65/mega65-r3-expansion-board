@@ -418,6 +418,10 @@
     [
       "bf6f0944-6234-4b84-bc75-6d48246ce101",
       "Floppy Interfaces"
+    ],
+    [
+      "ee5f4bc8-ae5c-44e7-a23d-2b06f471a294",
+      "Joystick Ports"
     ]
   ],
   "text_variables": {}
