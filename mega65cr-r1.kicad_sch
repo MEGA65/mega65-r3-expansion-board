@@ -328,6 +328,9 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cefe55e0-11c9-4ea9-80c7-bfbad7e5fa11"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/d416fbdf-b616-4a41-9c08-6ed9c47f4e90"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/d55e398c-dfc4-41a0-9326-32722fa9ddde"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -343,11 +346,20 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/e90e0740-8c2f-47b6-b4e3-7d210e5b867d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/ecf618ac-0a3c-4d3d-acc5-4268b721482b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/f4da0e0e-cd69-44ef-bc72-0484dae4909b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/f61fba3e-631e-4c91-9b4d-8d197a80d2d7"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/fb93eae4-06b7-4b37-8c4a-83fefc6b6eef"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/fc9472ca-03d3-4492-8d5b-a883fcea91ed"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/93fa3618-d0ce-4f2a-9ad8-b60ba828e8ca"
       (reference "C3") (unit 1) (value "1.2nF") (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm")
@@ -378,6 +390,18 @@
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/587feeb8-c85c-4259-80c9-5b83a2a9dffa"
       (reference "J16") (unit 1) (value "Conn_01x04_Male") (footprint "PinHeader_1x04_P2.54mm_Vertical")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/07b5bc8f-f9bb-4e36-aac8-5ea9938194fa"
+      (reference "J?") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-2x0x")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7558dc06-2745-4ba6-a83f-14fc8ff5b25b"
+      (reference "J?") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/83fe70e6-9483-4b57-a80a-2bff7fac445a"
+      (reference "J?") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-2x0x")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
+      (reference "JB1") (unit 1) (value "Conn_02x06_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/70a383f4-2b76-4ca8-83ba-b205ddd7f50b"
       (reference "R1") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
