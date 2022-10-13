@@ -427,6 +427,9 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1314a2a0-beab-44d9-b652-f4b0d81dc254"
       (reference "J?") (unit 1) (value "CON-SOCJ-2155") (footprint "GRAVITECH_CON-SOCJ-2155")
     )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/62d6343d-7b45-48e3-98e5-e656f6e9e9de"
+      (reference "J?") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7558dc06-2745-4ba6-a83f-14fc8ff5b25b"
       (reference "J?") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
