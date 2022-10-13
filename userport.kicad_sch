@@ -7,4 +7,9 @@
   (lib_symbols
   )
 
+
+  (text "Userport\nTapeport" (at 138.43 101.6 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fa8eb0d0-e977-4175-a1b4-be0cb0551b75)
+  )
 )

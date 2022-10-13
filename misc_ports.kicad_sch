@@ -693,7 +693,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4d7e226f-98b7-458e-b1aa-eeecf820377a)
   )
-  (text "Ethernet back-to-back?\nI2C RTC port to take external RTC"
+  (text "Ethernet back-to-back?\nI2C RTC port to take external RTC\nmicroSD, because early WUKONG boards lack SD card"
     (at 129.54 95.25 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 77c4ef8e-280f-472f-83d7-7c94005446ad)

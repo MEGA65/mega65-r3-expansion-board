@@ -7,4 +7,10 @@
   (lib_symbols
   )
 
+
+  (text "VGA output (binary 4 bit, or higher order with oversampling?)\nComposite video and audio?\n3.5mm audio jack?"
+    (at 124.46 91.44 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ff7fdacc-d058-4709-a6b1-23c142c1010e)
+  )
 )
