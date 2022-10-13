@@ -244,6 +244,9 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/43544805-80f1-4144-a4a1-5455b8d0b179"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/58d30d5f-aedc-4000-9cb3-da9c6acb2b03"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/612f7439-c8cd-4368-9a44-5beceae1fe5b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -252,6 +255,9 @@
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/63232789-70c0-497d-b271-f0e018088eb8"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/6c42b002-b2d7-4baa-9bb8-0130415cd06e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/6c85fb70-1d53-4298-9a7f-c1170d156141"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -317,6 +323,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cd04957c-1408-4f70-9585-96b944b5962b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cefe55e0-11c9-4ea9-80c7-bfbad7e5fa11"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/d55e398c-dfc4-41a0-9326-32722fa9ddde"
@@ -444,6 +453,12 @@
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/4e1fb6c5-b025-4be2-ab85-2205f537db70"
       (reference "R26") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c01bc450-de7d-47e0-bef9-b675664bd8bb"
+      (reference "R?") (unit 1) (value "4K7") (footprint "")
+    )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/953c941d-ca3f-4604-8b02-25f3db123b92"
+      (reference "SW?") (unit 1) (value "SW_Push_DPDT") (footprint "snapeda:SPUJ191500")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/75674a34-6de7-4a37-b74e-0162865bd2ac"
       (reference "U22") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
