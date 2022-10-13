@@ -1,3 +1,6 @@
 (sym_lib_table
-  (lib (name "snapeda")(type "Legacy")(uri "${KIPRJMOD}/library/SDF-60J.lib")(options "")(descr ""))
+  (lib (name "00Project-SDF-60J")(type "Legacy")(uri "${KIPRJMOD}/library/SDF-60J.lib")(options "")(descr ""))
+  (lib (name "00Project-SOCJ-2155")(type "Legacy")(uri "${KIPRJMOD}/library/CON-SOCJ-2155.lib")(options "")(descr ""))
+  (lib (name "00Project-FuseHolder")(type "Legacy")(uri "${KIPRJMOD}/library/696101000002.lib")(options "")(descr ""))
+  (lib (name "00Project-5VReg")(type "Legacy")(uri "${KIPRJMOD}/library/LM2678T-5.0.lib")(options "")(descr ""))
 )

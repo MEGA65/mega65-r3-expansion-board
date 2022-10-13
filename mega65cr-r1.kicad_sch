@@ -244,8 +244,14 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/43544805-80f1-4144-a4a1-5455b8d0b179"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/4b481700-aed4-4957-bfd7-19f829067e00"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/58d30d5f-aedc-4000-9cb3-da9c6acb2b03"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/598b9e50-e6df-496f-aeb9-a2544a0f0823"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/612f7439-c8cd-4368-9a44-5beceae1fe5b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -373,6 +379,30 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/1b81f9ff-1aa4-47cd-a3ec-6bd91e7e65ac"
       (reference "C6") (unit 1) (value "1.2nF") (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm")
     )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/07d647d4-a590-45dc-8637-2864c4950bf1"
+      (reference "C?") (unit 1) (value "15uF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/163029d0-3177-4e35-b3ed-dc2707e81f98"
+      (reference "C?") (unit 1) (value "15uF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/240fbcd7-8048-4b1f-be55-254c51321a4f"
+      (reference "C?") (unit 1) (value "100nF 50V") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/39ec951e-44f6-453d-92b3-2ccb1fddc1b8"
+      (reference "C?") (unit 1) (value "180uF 16V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/8ac89eec-4520-4367-bc5b-b9d543e8b4c3"
+      (reference "C?") (unit 1) (value "180uF 16V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/e04c6159-c8b0-434f-ab18-33be073e3fef"
+      (reference "C?") (unit 1) (value "15uF 50V") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/febf2531-c6f8-48cd-83fb-a16070b107be"
+      (reference "C?") (unit 1) (value "0.47pF") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/fe331beb-e117-42aa-804c-29e62e6062ec"
+      (reference "D?") (unit 1) (value "5V 40V 1N5825") (footprint "Diode_THT:D_5KP_P12.70mm_Horizontal")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c2acfce7-b0b0-4b43-83f2-4799fd516746"
       (reference "J1") (unit 1) (value "DB9_Male_MountingHoles") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
@@ -394,14 +424,23 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/07b5bc8f-f9bb-4e36-aac8-5ea9938194fa"
       (reference "J?") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-2x0x")
     )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1314a2a0-beab-44d9-b652-f4b0d81dc254"
+      (reference "J?") (unit 1) (value "CON-SOCJ-2155") (footprint "GRAVITECH_CON-SOCJ-2155")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7558dc06-2745-4ba6-a83f-14fc8ff5b25b"
       (reference "J?") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/83fe70e6-9483-4b57-a80a-2bff7fac445a"
       (reference "J?") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-2x0x")
     )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/96f80151-984a-4c4a-93f0-16c5679841aa"
+      (reference "J?") (unit 1) (value "696101000002 Fuse Holder 20mm") (footprint "696101000002")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "Conn_02x06_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1ef8ba9d-49b2-48d8-a4f5-302cd84725b6"
+      (reference "L?") (unit 1) (value "22uH") (footprint "")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/70a383f4-2b76-4ca8-83ba-b205ddd7f50b"
       (reference "R1") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
@@ -546,6 +585,9 @@
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/96692d68-262d-4b8a-a79d-4598c845012c"
       (reference "U?") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/98fa18e6-84b0-4247-b3d9-492d347a8de0"
+      (reference "U?") (unit 1) (value "LM2678T-5.0") (footprint "TO127P457X1016X2052-7P")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/9a0e943c-a259-4cbb-9323-0b759fe7a2f2"
       (reference "U?") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
