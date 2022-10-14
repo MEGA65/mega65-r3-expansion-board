@@ -223,6 +223,9 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/d0258a1a-0667-49ff-a656-ae02d46bc858"
       (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
     )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/005ff2bc-52cc-4e24-bbb7-10cbefe12b00"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/07e72031-53dc-4af9-af64-e8b231c31800"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -244,6 +247,9 @@
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/1eedf7d3-95b7-4245-8da6-70c10233c01e"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/2150d074-d428-4b44-bb33-0f861ff762be"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2600d55c-baf2-46cb-89bf-9bcbbcf8fef2"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -260,6 +266,12 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/43544805-80f1-4144-a4a1-5455b8d0b179"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/444f03a9-046c-4804-9304-a75d4fc1c422"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/44fbf060-e22c-4137-8708-db572d9b2138"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/4b481700-aed4-4957-bfd7-19f829067e00"
@@ -365,6 +377,9 @@
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/b938307e-d983-4e4d-a3b1-4f387834ac5f"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/bb40b58a-6221-467c-adfe-f0d2bd5acc8c"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/bc1fa38b-313c-4f35-a1c7-9e359ed7bace"
@@ -510,6 +525,9 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1314a2a0-beab-44d9-b652-f4b0d81dc254"
       (reference "J?") (unit 1) (value "CON-SOCJ-2155") (footprint "GRAVITECH_CON-SOCJ-2155")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/3cc46d67-ebb8-4cfd-a0ce-b8569e21eb90"
+      (reference "J?") (unit 1) (value "C64_Expansion_Port") (footprint "HackupNet:C64-Cart-Socket-Vertical")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/62d6343d-7b45-48e3-98e5-e656f6e9e9de"
       (reference "J?") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "")
