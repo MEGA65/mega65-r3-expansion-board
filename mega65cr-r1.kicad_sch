@@ -265,6 +265,9 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/598b9e50-e6df-496f-aeb9-a2544a0f0823"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/5e690cb4-2e32-47b6-b0e5-763bc897357f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/612f7439-c8cd-4368-9a44-5beceae1fe5b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -273,6 +276,9 @@
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/63232789-70c0-497d-b271-f0e018088eb8"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/6a262b58-0c10-4afc-8944-4a872f81ee27"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/6c42b002-b2d7-4baa-9bb8-0130415cd06e"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -283,7 +289,13 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/6ff6351e-c6e3-4b1f-9663-4fe2426bb3ff"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/73e8d53d-6ce2-47be-88d7-98dcc850520d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/73f10555-3893-4c2b-b090-490011da9a36"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/74171951-ff5b-40e1-9c32-31b954e67428"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/7c31ae68-1bbb-43a0-b15f-41c8bc82785f"
@@ -309,6 +321,9 @@
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/97084eaa-ad77-4d68-8933-c6d52c97efce"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/9ee1da03-c90a-4f38-8fa1-18616cbede25"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/a2165469-a1e0-427c-aca8-a6ece945323a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -468,6 +483,9 @@
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/99417a04-dfec-4c27-8c1d-f09c779cddec"
       (reference "J?") (unit 1) (value "BA60BC0WT") (footprint "snapeda:TO-220-FP-5")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/b8969bed-a16c-4617-a759-4942d4c78c22"
+      (reference "J?") (unit 1) (value "C64_User_Port") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "Conn_02x06_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
