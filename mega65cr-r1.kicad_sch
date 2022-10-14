@@ -268,6 +268,9 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/3bfa46a1-f5a6-4140-a1fd-bce53106cfcb"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3f923e82-a7f7-46fb-85c4-a6ffafb848cd"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/3fe6ca30-82ab-4c4f-8a60-8015f5d842c4"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -361,6 +364,9 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/7f459fde-e40e-4e94-9eb4-67b280d4b553"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/82bf67ce-3f0f-4d93-abb9-fafcc242fdda"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/8787a550-6148-467b-8ac6-d5387448c03d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -388,6 +394,9 @@
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/9ee1da03-c90a-4f38-8fa1-18616cbede25"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/a095bc7f-0995-4f39-bcb4-a714e4ea7104"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/a2165469-a1e0-427c-aca8-a6ece945323a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -399,6 +408,9 @@
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/a76db4b4-8cea-4590-b5b4-ffce770c1798"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/aec4fd62-f673-4d19-9afb-ffad737c6fc1"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/b0b67b61-971b-40cd-abe2-232e475e094d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -449,6 +461,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cefe55e0-11c9-4ea9-80c7-bfbad7e5fa11"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/d3492b69-50ea-402b-a92d-8b9c6451a069"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/d416fbdf-b616-4a41-9c08-6ed9c47f4e90"
@@ -565,6 +580,9 @@
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/3cc46d67-ebb8-4cfd-a0ce-b8569e21eb90"
       (reference "J?") (unit 1) (value "C64_Expansion_Port") (footprint "HackupNet:C64-Cart-Socket-Vertical")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/5020560f-15fd-4b03-9315-773ba3c2b522"
+      (reference "J?") (unit 1) (value "RJHSE-5380") (footprint "Connector_RJ:RJ45_Amphenol_RJHSE5380")
+    )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/62d6343d-7b45-48e3-98e5-e656f6e9e9de"
       (reference "J?") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "")
     )
@@ -676,6 +694,9 @@
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/0f66cfc0-bb11-4b9d-b99a-95a93c70a10d"
       (reference "RN?") (unit 1) (value "3.3K x 8") (footprint "Resistor_THT:R_Array_SIP9")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/18f5836f-585e-44cc-a0ff-e2fc9d8dcd21"
+      (reference "RN?") (unit 1) (value "3.3K x 8") (footprint "Resistor_THT:R_Array_SIP9")
+    )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/3eb480c4-ec97-42ed-a7c7-fca18bd0963c"
       (reference "RN?") (unit 1) (value "3.3K x 8") (footprint "Resistor_THT:R_Array_SIP9")
     )
@@ -684,6 +705,9 @@
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/fa35696d-83ea-43f4-9af4-b264ee1cd6ee"
       (reference "RN?") (unit 1) (value "4609X-AP1-332LF 3.3Kx8") (footprint "Resistor_THT:R_Array_SIP9")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/ed4f47c9-cf64-49e7-8a1b-1c9ea46d4ef6"
+      (reference "S?") (unit 1) (value "418117270908") (footprint "snapeda:418117270908")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/953c941d-ca3f-4604-8b02-25f3db123b92"
       (reference "SW?") (unit 1) (value "SW_Push_DPDT") (footprint "snapeda:SPUJ191500")
@@ -783,6 +807,9 @@
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/c4b99796-0ade-4589-b121-242de1fd8bc1"
       (reference "U?") (unit 1) (value "74LS138") (footprint "Package_DIP:DIP-16_W7.62mm")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/daaae6a2-45f9-4337-ac93-419b63307c15"
+      (reference "U?") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/dd1fb720-8ee6-42ff-8203-18db4fa87988"
       (reference "U?") (unit 1) (value "74LS373") (footprint "")
