@@ -580,9 +580,6 @@
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/3cc46d67-ebb8-4cfd-a0ce-b8569e21eb90"
       (reference "J?") (unit 1) (value "C64_Expansion_Port") (footprint "HackupNet:C64-Cart-Socket-Vertical")
     )
-    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/5020560f-15fd-4b03-9315-773ba3c2b522"
-      (reference "J?") (unit 1) (value "RJHSE-5380") (footprint "Connector_RJ:RJ45_Amphenol_RJHSE5380")
-    )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/62d6343d-7b45-48e3-98e5-e656f6e9e9de"
       (reference "J?") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "")
     )
@@ -603,6 +600,9 @@
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/b8969bed-a16c-4617-a759-4942d4c78c22"
       (reference "J?") (unit 1) (value "C64_User_Port") (footprint "snapeda:C64-User-Port-Male")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/f69e592b-cd9b-463a-923e-de69da049fe4"
+      (reference "J?") (unit 1) (value "Wuerth_7499010121A") (footprint "Connector_RJ:RJ45_Wuerth_7499010121A_Horizontal")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "Conn_02x06_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
