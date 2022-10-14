@@ -229,6 +229,12 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/0e0d7aba-bbe7-4a31-9982-290e474af523"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/11675a2f-2532-4418-9060-6786e0946b2b"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/1eedf7d3-95b7-4245-8da6-70c10233c01e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2600d55c-baf2-46cb-89bf-9bcbbcf8fef2"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -246,6 +252,12 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/4b481700-aed4-4957-bfd7-19f829067e00"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/526520c2-0c7f-4c11-bc8c-574e0c3c0f16"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/57be0236-e4b5-4d0e-8a2d-8b303c015074"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/58d30d5f-aedc-4000-9cb3-da9c6acb2b03"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
@@ -281,6 +293,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/7f459fde-e40e-4e94-9eb4-67b280d4b553"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/879cfd03-bc93-43a3-b535-0d7b761db909"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/886ed214-ca30-4864-b90c-5e599e8c0304"
@@ -321,6 +336,12 @@
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/be428122-4feb-4136-9f6b-97ed5e065048"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c7ee1fe1-e559-4db5-b6ef-48923f1ed9c0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/cae44691-74f9-4b91-825e-3ab285f6bde1"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cb8bf7ed-7e1e-4a95-a32c-1da621665764"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -366,6 +387,9 @@
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/fc9472ca-03d3-4492-8d5b-a883fcea91ed"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/fdec920d-0589-4c0f-9d7b-a7e452c44410"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/93fa3618-d0ce-4f2a-9ad8-b60ba828e8ca"
       (reference "C3") (unit 1) (value "1.2nF") (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm")
@@ -430,6 +454,9 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/62d6343d-7b45-48e3-98e5-e656f6e9e9de"
       (reference "J?") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/72f82b5f-d1e2-4c07-bea8-f735acffef86"
+      (reference "J?") (unit 1) (value "C64_Tape_Port") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7558dc06-2745-4ba6-a83f-14fc8ff5b25b"
       (reference "J?") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
@@ -438,6 +465,9 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/96f80151-984a-4c4a-93f0-16c5679841aa"
       (reference "J?") (unit 1) (value "696101000002 Fuse Holder 20mm") (footprint "696101000002")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/99417a04-dfec-4c27-8c1d-f09c779cddec"
+      (reference "J?") (unit 1) (value "BA60BC0WT") (footprint "snapeda:TO-220-FP-5")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "Conn_02x06_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
@@ -550,6 +580,9 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/017d9a84-23f0-4360-b537-d0e6691d9265"
       (reference "U?") (unit 1) (value "74LS06N") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/088ce5a6-67aa-4020-8eb0-1680f340e4dd"
+      (reference "U?") (unit 1) (value "74LS373") (footprint "Package_DIP:DIP-20_W7.62mm")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/174d766a-9c70-4fbc-a64e-5c4e42d62028"
       (reference "U?") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
@@ -600,6 +633,9 @@
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/dd1fb720-8ee6-42ff-8203-18db4fa87988"
       (reference "U?") (unit 1) (value "74LS373") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/e0c3d3b7-4251-44cd-a4c1-7dca0a0e07d5"
+      (reference "U?") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/1247cdd5-def1-4773-8de5-272f3333178c"
       (reference "U?") (unit 2) (value "74LS06N") (footprint "")

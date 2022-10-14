@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "snapeda")(type "KiCad")(uri "${KIPRJMOD}/library")(options "")(descr ""))
+  (lib (name "HackupNet")(type "KiCad")(uri "${KIPRJMOD}/HackupNet-KiCad-Libraries/Hackup_Commodore.pretty")(options "")(descr ""))
 )

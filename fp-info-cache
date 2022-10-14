@@ -1,4 +1,4 @@
-20113685615469735
+20130342540118083
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52926,6 +52926,55 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HackupNet
+C64-Cart-NoSilkS
+
+
+0
+48
+44
+HackupNet
+C64-Cart-Socket-Vertical
+
+
+0
+44
+44
+HackupNet
+C64-Cassette-Port-Female
+
+
+0
+12
+12
+HackupNet
+C64-Cassette-Port-Male
+
+
+0
+12
+12
+HackupNet
+C64-User-Port-Female
+
+
+0
+24
+24
+HackupNet
+C64-User-Port-Female_Single-GND
+
+
+0
+24
+21
+HackupNet
+VC20-Cart
+Male board edge connector that fits the expansion port of the Commodore VIC-20 computer.
+VIC-20, VC-20, Commodore, cartridge
+0
+44
+44
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -85603,6 +85652,13 @@ varistor SIOV
 2
 2
 snapeda
+696101000002
+<b>WR-FSH Fuseholder THT Blocks PCB Clip Cover<br><br></b>Mates with 696120004001
+
+0
+2
+2
+snapeda
 CUI_SDF-60J
 
 
@@ -85610,9 +85666,23 @@ CUI_SDF-60J
 8
 8
 snapeda
+GRAVITECH_CON-SOCJ-2155
+
+
+0
+3
+3
+snapeda
 SPUJ191500
 
 
 0
 6
 6
+snapeda
+TO127P457X1016X2052-7P
+
+
+0
+7
+7

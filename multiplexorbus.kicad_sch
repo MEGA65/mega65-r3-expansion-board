@@ -501,8 +501,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9dbeec11-c481-4972-86c2-4034a0ffd0a7)
   )
-  (text "MUX_LATCH_0 R/W = 34-pin floppy\nMUX_LATCH_1 R/W = IEC Serial\nMUX_LATCH_2 R/W = Joystick 1\nMUX_LATCH_3 R/W = Joystick 2"
-    (at 233.68 24.13 0)
+  (text "MUX_LATCH_0 R/W = 34-pin floppy\nMUX_LATCH_1 R/W = IEC Serial\nMUX_LATCH_2 R/W = Joystick 1\nMUX_LATCH_3 R/W = Joystick 2\nMUX_LATCH_4 R/W = Casette port"
+    (at 233.68 29.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b97ea05f-58bf-47db-b41e-a0bc332d4ddf)
   )
