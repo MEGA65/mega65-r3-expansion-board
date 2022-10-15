@@ -1827,47 +1827,17 @@
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/b7c6d121-2bb8-4448-8a76-62477629ba01"
       (reference "#PWR0120") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/e5879d63-7261-4899-8e35-d6a75e77e7d6"
-      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c7c9ac47-e9a3-4395-8711-5c799b578482"
+      (reference "#PWR0121") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/97084eaa-ad77-4d68-8933-c6d52c97efce"
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c697a7ac-4527-4381-b61c-a80cfa7cd4e0"
       (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/ab739ec3-0e05-47f8-b409-347b9d819b95"
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/f54e6946-62fc-4160-bd90-fdebf8fd64af"
       (reference "#PWR0123") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/da6ff5d2-969b-4f68-a70c-ec30ef285b33"
-      (reference "#PWR0124") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/e27a4386-2a13-4fb8-9e95-98603ee34bc5"
-      (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/62c7c793-33ef-4d6e-8abf-bfdbedd81aad"
-      (reference "#PWR0126") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/92399972-827c-4057-9f8a-e37fc7e4decc"
-      (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/3fe6ca30-82ab-4c4f-8a60-8015f5d842c4"
-      (reference "#PWR0128") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/bbc95ea2-e86c-4525-8409-f35277a04754"
-      (reference "#PWR0129") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/e837a1a9-82dd-4b71-90b7-2602ab80f980"
-      (reference "#PWR0130") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/b938307e-d983-4e4d-a3b1-4f387834ac5f"
-      (reference "#PWR0131") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cd04957c-1408-4f70-9585-96b944b5962b"
-      (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/a449538f-bdf6-4f23-998c-aabc0546e477"
-      (reference "#PWR0133") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/fb93eae4-06b7-4b37-8c4a-83fefc6b6eef"
-      (reference "#PWR0134") (unit 1) (value "+5V") (footprint "")
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/30e89838-a7b4-4ea9-b539-da42d0ccbdea"
+      (reference "#PWR0124") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/7d6f8fef-d6dd-45bf-b55f-faeb4122a7fc"
       (reference "#PWR0135") (unit 1) (value "+5V") (footprint "")
@@ -1893,32 +1863,14 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/d0258a1a-0667-49ff-a656-ae02d46bc858"
       (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cb8bf7ed-7e1e-4a95-a32c-1da621665764"
-      (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2600d55c-baf2-46cb-89bf-9bcbbcf8fef2"
-      (reference "#PWR0144") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/6c42b002-b2d7-4baa-9bb8-0130415cd06e"
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cefe55e0-11c9-4ea9-80c7-bfbad7e5fa11"
       (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/0e0d7aba-bbe7-4a31-9982-290e474af523"
-      (reference "#PWR0147") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/e90e0740-8c2f-47b6-b4e3-7d210e5b867d"
-      (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
-    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/58d30d5f-aedc-4000-9cb3-da9c6acb2b03"
       (reference "#PWR0149") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/e124361e-2115-46f0-8a60-2c90fe686487"
-      (reference "#PWR0150") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/7c31ae68-1bbb-43a0-b15f-41c8bc82785f"
-      (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/18206ca8-3083-4bc1-a3a1-f57f4e5032b2"
       (reference "#PWR0152") (unit 1) (value "GND") (footprint "")
@@ -2404,7 +2356,7 @@
       (reference "J5") (unit 1) (value "QMTECH FPGA Module U5") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x32_P2.54mm_Vertical")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/9b2913aa-2e6f-4a94-a0c7-53573f96600d"
-      (reference "J6") (unit 1) (value "SDF-60J for IEC 1541 serial port") (footprint "CUI_SDF-60J")
+      (reference "J6") (unit 1) (value "SDF-60J for IEC 1541 serial port") (footprint "snapeda:CUI_SDF-60J")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7558dc06-2745-4ba6-a83f-14fc8ff5b25b"
       (reference "J7") (unit 1) (value "QMTECH JTAG") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
@@ -2413,28 +2365,28 @@
       (reference "J8") (unit 1) (value "RTC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3e7e0971-c1d9-416f-bb74-85af0c4d0c45"
-      (reference "J9") (unit 1) (value "1140084168 microSD Card Slot") (footprint "AMPHENOL_1140084168")
+      (reference "J9") (unit 1) (value "1140084168 microSD Card Slot") (footprint "snapeda:AMPHENOL_1140084168")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/83fe70e6-9483-4b57-a80a-2bff7fac445a"
-      (reference "J10") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-2x0x")
+      (reference "J10") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1314a2a0-beab-44d9-b652-f4b0d81dc254"
-      (reference "J11") (unit 1) (value "CON-SOCJ-2155") (footprint "GRAVITECH_CON-SOCJ-2155")
+      (reference "J11") (unit 1) (value "CON-SOCJ-2155") (footprint "snapeda:GRAVITECH_CON-SOCJ-2155")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/62d6343d-7b45-48e3-98e5-e656f6e9e9de"
       (reference "J12") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/b3ff0575-99e1-4130-adc3-6d60bd9ba1e2"
-      (reference "J13") (unit 1) (value "Conn_01x04_Male") (footprint "PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J13") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/473f873a-910a-4553-bd8a-332fe76ffee1"
       (reference "J14") (unit 1) (value "Conn_02x17_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/96f80151-984a-4c4a-93f0-16c5679841aa"
-      (reference "J15") (unit 1) (value "696101000002 Fuse Holder 20mm") (footprint "696101000002")
+      (reference "J15") (unit 1) (value "696101000002 Fuse Holder 20mm") (footprint "snapeda:696101000002")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/587feeb8-c85c-4259-80c9-5b83a2a9dffa"
-      (reference "J16") (unit 1) (value "Conn_01x04_Male") (footprint "PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J16") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/72f82b5f-d1e2-4c07-bea8-f735acffef86"
       (reference "J17") (unit 1) (value "C64_Tape_Port") (footprint "HackupNet:C64-Cassette-Port-Male")
@@ -2460,6 +2412,12 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/808553aa-d67d-40d6-a901-9ceff4abc198"
       (reference "J24") (unit 1) (value "Component A/V") (footprint "snapeda:CUI_SDF-80J")
     )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2d523a56-2a0a-4f62-9983-356f198c656a"
+      (reference "J25") (unit 1) (value "Joystick Ports Mezannine Lower") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
+    )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/23d8201b-e518-40e9-800e-9c0324381d33"
+      (reference "J26") (unit 1) (value "Joystick Ports Mezannine Upper") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "TE0790-03") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
     )
@@ -2467,7 +2425,7 @@
       (reference "L1") (unit 1) (value "22uH, eg SC30R22KT") (footprint "Inductor_THT:L_Axial_L5.0mm_D3.6mm_P10.00mm_Horizontal_Murata_BL01RN1A2A2")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/dc81cab9-d39c-4b6f-8e0a-aca0a491abef"
-      (reference "P1") (unit 1) (value "Full-side CD Card Slot") (footprint "YAMAICHI_FPS009-2405-0")
+      (reference "P1") (unit 1) (value "Full-side CD Card Slot") (footprint "snapeda:YAMAICHI_FPS009-2405-0")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/70a383f4-2b76-4ca8-83ba-b205ddd7f50b"
       (reference "R1") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
@@ -2833,7 +2791,7 @@
       (reference "U14") (unit 1) (value "PTN3363BSMP") (footprint "snapeda:QFN50P500X500X85-33N")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/98fa18e6-84b0-4247-b3d9-492d347a8de0"
-      (reference "U15") (unit 1) (value "LM2678T-5.0") (footprint "TO127P457X1016X2052-7P")
+      (reference "U15") (unit 1) (value "LM2678T-5.0") (footprint "snapeda:TO127P457X1016X2052-7P")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/5a9c8523-69de-46d8-92b9-f8f4d695e834"
       (reference "U16") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
@@ -2848,31 +2806,31 @@
       (reference "U19") (unit 1) (value "74LS373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/3aae1a8b-a2e1-4430-b51e-1db75f551d46"
-      (reference "U20") (unit 1) (value "74LS125") (footprint "")
+      (reference "U20") (unit 1) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/84980c7c-2004-42a4-bc06-9215af5c2733"
-      (reference "U20") (unit 2) (value "74LS125") (footprint "")
+      (reference "U20") (unit 2) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/a1be3833-03fa-4d95-9a9b-d26f90337b22"
-      (reference "U20") (unit 3) (value "74LS125") (footprint "")
+      (reference "U20") (unit 3) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/6c464095-bc57-4f67-9bd0-faedeba1fda7"
-      (reference "U20") (unit 4) (value "74LS125") (footprint "")
+      (reference "U20") (unit 4) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/416714b7-4b90-49ac-b51f-e8baae1d543b"
       (reference "U20") (unit 5) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/24523884-27b3-4f4b-a751-221e4d453efa"
-      (reference "U21") (unit 1) (value "74LS125") (footprint "")
+      (reference "U21") (unit 1) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/9deddb9f-e5c5-4bfe-af53-9a10aa5185b6"
-      (reference "U21") (unit 2) (value "74LS125") (footprint "")
+      (reference "U21") (unit 2) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/71c19702-d331-4d80-96cf-3856a68164ba"
-      (reference "U21") (unit 3) (value "74LS125") (footprint "")
+      (reference "U21") (unit 3) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/0b292420-fa80-415e-baca-0ae378675929"
-      (reference "U21") (unit 4) (value "74LS125") (footprint "")
+      (reference "U21") (unit 4) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c6d04682-ca45-4396-93d9-365c02b81696"
       (reference "U21") (unit 5) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
@@ -2902,16 +2860,16 @@
       (reference "U23") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/982ea69b-1a88-48fb-b861-11f2e88e9b3d"
-      (reference "U24") (unit 1) (value "74LS125") (footprint "")
+      (reference "U24") (unit 1) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/11003a5c-b386-4122-a7b5-49a1f4fb22cb"
-      (reference "U24") (unit 2) (value "74LS125") (footprint "")
+      (reference "U24") (unit 2) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c7b432e5-68e5-4548-a054-8cff8004110a"
-      (reference "U24") (unit 3) (value "74LS125") (footprint "")
+      (reference "U24") (unit 3) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/eb17b223-7b30-4d6b-b68e-983a70f3ec34"
-      (reference "U24") (unit 4) (value "74LS125") (footprint "")
+      (reference "U24") (unit 4) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/8cb311a9-31e9-4b5c-8b09-87fec6f48050"
       (reference "U24") (unit 5) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
