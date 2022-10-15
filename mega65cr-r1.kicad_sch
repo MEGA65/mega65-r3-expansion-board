@@ -247,6 +247,9 @@
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/15c15059-f9f1-4a50-aafa-8d4793c5ebac"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/18206ca8-3083-4bc1-a3a1-f57f4e5032b2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/1db479b3-bcbe-4145-8087-dcac05d6fe08"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -475,6 +478,9 @@
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/bef18cba-5e4d-4b18-bbd4-ca8bc773b08f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/c436b615-4926-4d59-ac6f-dd43b1524dbc"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c7d54e2e-703b-4f9c-b1a3-21d9dea88df8"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -663,6 +669,9 @@
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7558dc06-2745-4ba6-a83f-14fc8ff5b25b"
       (reference "J?") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/82eebe74-98ef-4799-85fb-cd490001cc15"
+      (reference "J?") (unit 1) (value "RTC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/83fe70e6-9483-4b57-a80a-2bff7fac445a"
       (reference "J?") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_Micro-D_Molex_46765-2x0x")
