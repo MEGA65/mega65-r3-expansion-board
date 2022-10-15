@@ -253,6 +253,9 @@
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/1ad26cb2-5d56-48a6-93f8-96ccc74d183d"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/1adb39ed-e13e-4730-aef5-7da6b62cff83"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/1db479b3-bcbe-4145-8087-dcac05d6fe08"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -419,6 +422,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/74171951-ff5b-40e1-9c32-31b954e67428"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/7a03aa36-9964-43f3-857e-c0724f1bf047"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/7bd8cc05-b8a2-457c-83e0-2ecbdec76dfa"
@@ -754,6 +760,9 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7558dc06-2745-4ba6-a83f-14fc8ff5b25b"
       (reference "J?") (unit 1) (value "Conn_01x06_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/808553aa-d67d-40d6-a901-9ceff4abc198"
+      (reference "J?") (unit 1) (value "Component A/V") (footprint "snapeda:CUI_SDF-80J")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/82eebe74-98ef-4799-85fb-cd490001cc15"
       (reference "J?") (unit 1) (value "RTC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
@@ -768,9 +777,6 @@
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/b8969bed-a16c-4617-a759-4942d4c78c22"
       (reference "J?") (unit 1) (value "C64_User_Port") (footprint "snapeda:C64-User-Port-Male")
-    )
-    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/ef28ea6b-ead8-4e24-b1ab-27e8fe69cc9e"
-      (reference "J?") (unit 1) (value "DIN-8") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/f69e592b-cd9b-463a-923e-de69da049fe4"
       (reference "J?") (unit 1) (value "Wuerth_7499010121A") (footprint "Connector_RJ:RJ45_Wuerth_7499010121A_Horizontal")
