@@ -417,7 +417,7 @@
     ],
     [
       "bf6f0944-6234-4b84-bc75-6d48246ce101",
-      "Floppy Interfaces"
+      "IEC & 3.5\" Drives"
     ],
     [
       "ee5f4bc8-ae5c-44e7-a23d-2b06f471a294",
@@ -425,15 +425,15 @@
     ],
     [
       "46f1890f-c5bb-4aae-8808-0511f47e29d8",
-      "Reset, Digital Video"
+      "MEGA65 Peripherals, DVI, Eth, microSD"
     ],
     [
       "cd7afc30-e644-4a23-9f17-325d3146c7db",
-      "Power"
+      "Power Supply"
     ],
     [
       "2879178d-3b15-409b-b355-34424f0e3bd8",
-      "FPGA Interface QMTECH Kintex A345T Board"
+      "FPGA Module"
     ],
     [
       "021c7e3b-ea95-4afa-9d1d-76ae503bbd65",
@@ -441,15 +441,15 @@
     ],
     [
       "48871385-9b55-4bb1-8319-1c951289d910",
-      "Multiplexor Bus"
+      "Multiplexor Interconnect Bus"
     ],
     [
       "601f3fca-6ee6-4b4f-870c-3e6d075cb571",
-      "Expansion Port"
+      "Cartridge Port"
     ],
     [
       "3e79ecec-be2d-46e5-9b86-3d84ade3f323",
-      "VGA"
+      "VGA & Component AV"
     ]
   ],
   "text_variables": {}
