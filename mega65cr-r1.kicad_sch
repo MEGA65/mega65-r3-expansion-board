@@ -262,6 +262,9 @@
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/1eedf7d3-95b7-4245-8da6-70c10233c01e"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/20d6e635-3586-4a0d-b5be-0f9dc726618a"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/2150d074-d428-4b44-bb33-0f861ff762be"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -443,6 +446,9 @@
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/82bf67ce-3f0f-4d93-abb9-fafcc242fdda"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/8396ebe8-b411-4411-8d1a-a7cd67207203"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/8787a550-6148-467b-8ac6-d5387448c03d"
@@ -640,6 +646,9 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/ecf618ac-0a3c-4d3d-acc5-4268b721482b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/ed1e64f8-a8a0-4de6-a2fd-f08033786c75"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/eee503ff-2589-46ca-8fda-a6c146c4e5a1"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -780,6 +789,9 @@
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/b8969bed-a16c-4617-a759-4942d4c78c22"
       (reference "J?") (unit 1) (value "C64_User_Port") (footprint "snapeda:C64-User-Port-Male")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/e745603a-bca5-4cdf-9ad3-56c10ff20eb6"
+      (reference "J?") (unit 1) (value "Audio Header") (footprint "")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/f21fe63a-5618-45ac-a995-fde1476d25ed"
       (reference "J?") (unit 1) (value "3.5mm_Stereo_Audio_Jack STX-3500-4N") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal")
