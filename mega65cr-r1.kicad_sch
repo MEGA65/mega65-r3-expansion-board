@@ -262,6 +262,9 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2600d55c-baf2-46cb-89bf-9bcbbcf8fef2"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/2dbaa0b6-a734-4ba0-9b83-ae7405742fe7"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/34edb871-3bbb-4d85-a375-661622be2674"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -403,6 +406,12 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/886ed214-ca30-4864-b90c-5e599e8c0304"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/8a47c187-ba7b-4c17-9aa1-1e76cdc8373b"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/8c03b8cb-f91e-4ac0-94c3-7c26a50c06d2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/8d874d32-b8c4-4448-8084-7259df9f00ad"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -426,6 +435,9 @@
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/a095bc7f-0995-4f39-bcb4-a714e4ea7104"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/a0c6936f-94b9-473b-b650-d57c613cd096"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/a2165469-a1e0-427c-aca8-a6ece945323a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -502,6 +514,9 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/cefe55e0-11c9-4ea9-80c7-bfbad7e5fa11"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/d31d6467-6e99-43bc-ad3b-ba24a690560e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/d333c733-7cba-445b-b348-915fa5235add"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -525,6 +540,12 @@
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/da6ff5d2-969b-4f68-a70c-ec30ef285b33"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/dbf23adc-d42a-4a81-ae79-73e564a3c830"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/e0ba1165-81e8-425f-8c1e-048ad27c3e99"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/e124361e-2115-46f0-8a60-2c90fe686487"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -661,6 +682,9 @@
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/3cc46d67-ebb8-4cfd-a0ce-b8569e21eb90"
       (reference "J?") (unit 1) (value "C64_Expansion_Port") (footprint "HackupNet:C64-Cart-Socket-Vertical")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3e7e0971-c1d9-416f-bb74-85af0c4d0c45"
+      (reference "J?") (unit 1) (value "1140084168 microSD Card Slot") (footprint "AMPHENOL_1140084168")
+    )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/62d6343d-7b45-48e3-98e5-e656f6e9e9de"
       (reference "J?") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "")
     )
@@ -693,6 +717,9 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1ef8ba9d-49b2-48d8-a4f5-302cd84725b6"
       (reference "L?") (unit 1) (value "22uH") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/dc81cab9-d39c-4b6f-8e0a-aca0a491abef"
+      (reference "P?") (unit 1) (value "Full-side CD Card Slot") (footprint "YAMAICHI_FPS009-2405-0")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/70a383f4-2b76-4ca8-83ba-b205ddd7f50b"
       (reference "R1") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
@@ -775,7 +802,16 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/1e56c4fe-1e41-4b35-a025-58f39858de0e"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/45ade0d8-9f37-461f-afcf-a6b12bf3856d"
+      (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6fd8150d-ec42-4b65-9a88-afc6202cabca"
+      (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/8708f31e-8e00-4a28-877b-cc946a01d598"
+      (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/a570ccae-4194-4621-a04c-859b635eb3ab"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/b775f904-8602-43ac-abc5-423c1e08a960"
