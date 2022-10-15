@@ -331,6 +331,9 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/4b481700-aed4-4957-bfd7-19f829067e00"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/4e8926ee-c182-4c6c-9cb3-bab254fc0eda"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/4fc89c0a-2daf-4f7d-9875-df8792991ed0"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -538,6 +541,9 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/c436b615-4926-4d59-ac6f-dd43b1524dbc"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/c5abdc3c-bc76-42f9-ac46-70ea9661d0d0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/c75587de-3b8a-4cc9-92e3-0ed626ea89e6"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -730,6 +736,9 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1314a2a0-beab-44d9-b652-f4b0d81dc254"
       (reference "J?") (unit 1) (value "CON-SOCJ-2155") (footprint "GRAVITECH_CON-SOCJ-2155")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/27adfb4f-7c1e-4110-997e-10d6c7df3444"
+      (reference "J?") (unit 1) (value "DB15_Female_HighDensity_MountingHoles") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm")
+    )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/3cc46d67-ebb8-4cfd-a0ce-b8569e21eb90"
       (reference "J?") (unit 1) (value "C64_Expansion_Port") (footprint "HackupNet:C64-Cart-Socket-Vertical")
     )
@@ -847,20 +856,44 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/4e1fb6c5-b025-4be2-ab85-2205f537db70"
       (reference "R26") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/07aa72d4-d9d8-4b04-a244-f888a95af180"
+      (reference "R?") (unit 1) (value "49R9") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/08a9e1cb-5247-4064-b232-4c1ae37f7ac0"
       (reference "R?") (unit 1) (value "220") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/114d3658-f191-42f6-aa92-9caabf08236b"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/27915d82-474f-4f2c-9c6b-3312555e8724"
+      (reference "R?") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/3290d0d4-ae94-4f93-91c8-3df48d501774"
+      (reference "R?") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/33e061b6-a87c-4dbb-a562-79a86966e8bd"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/418328bc-3ccd-48f2-b15c-1ae3ffe78ba3"
+      (reference "R?") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/44f5ebc0-27ce-4384-85ff-e5dddc649cd2"
+      (reference "R?") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/45ade0d8-9f37-461f-afcf-a6b12bf3856d"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/4a2c37a8-1672-4462-8070-e9c681f04c53"
+      (reference "R?") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/57b7d268-e179-44dd-9026-d0f07e47907f"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/5da0b914-f6d7-4487-91c9-aff13daab4e7"
+      (reference "R?") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/718ffbdf-1888-4049-b28c-e4445f31146a"
+      (reference "R?") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/7ec338ed-588e-4e79-b50a-9d619900243b"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
@@ -868,8 +901,23 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/8708f31e-8e00-4a28-877b-cc946a01d598"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/895b246d-09da-41d1-b77f-e695d5873a95"
+      (reference "R?") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/9117e791-3ab0-4b51-a1f2-1ddb2bc54d08"
+      (reference "R?") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/9164cdee-e848-4990-aeb1-efa1faab3c6c"
+      (reference "R?") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/a570ccae-4194-4621-a04c-859b635eb3ab"
       (reference "R?") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/ae2d46e1-df9c-4406-a5cc-e548470d7f42"
+      (reference "R?") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/b59852e3-6bf5-42fb-9452-65eca1f14a94"
+      (reference "R?") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/b775f904-8602-43ac-abc5-423c1e08a960"
       (reference "R?") (unit 1) (value "220") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
@@ -877,11 +925,32 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/bc06cfea-83c2-46ee-aadd-7644ba2714ee"
       (reference "R?") (unit 1) (value "12K4") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/bea98dfc-9659-455a-8e95-8859c4032d07"
+      (reference "R?") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c01bc450-de7d-47e0-bef9-b675664bd8bb"
       (reference "R?") (unit 1) (value "4K7") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/cab72ab5-2a19-4784-9e86-b8ca5394724a"
+      (reference "R?") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/cc886bfc-43db-4ac0-8a04-10f4f9b02cce"
+      (reference "R?") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/cfdcd432-4c9f-454e-b0e8-f163ba37809b"
+      (reference "R?") (unit 1) (value "49R9") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/d233a99c-3e48-46dd-8cbb-c08bcfad2428"
       (reference "R?") (unit 1) (value "6.49K 1%") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/d2defdd0-c299-4e8e-9cfb-2162b32e1020"
+      (reference "R?") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/da5a2b26-3ce7-49fa-9964-371817e20ff0"
+      (reference "R?") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/dff4c41e-0c03-447a-b036-bfa75f48fbb1"
+      (reference "R?") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/01d5fe4e-4b86-43b7-9276-e090ff671e0e"
       (reference "RN?") (unit 1) (value "3.3K x 8") (footprint "Resistor_THT:R_Array_SIP9")
