@@ -1,4 +1,4 @@
-20143668767648995
+20145334572108434
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85700,6 +85700,13 @@ GRAVITECH_CON-SOCJ-2155
 0
 3
 3
+snapeda
+QFN50P500X500X85-33N
+
+
+0
+33
+33
 snapeda
 RJ45_Wuerth_7499011222A
 LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT
