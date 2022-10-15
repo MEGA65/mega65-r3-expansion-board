@@ -33,7 +33,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 2879178d-3b15-409b-b355-34424f0e3bd8)
-    (property "Sheet name" "FPGA Interface QMTECH Wukong A100T" (id 0) (at 104.14 74.2184 0)
+    (property "Sheet name" "FPGA Interface QMTECH Kintex A345T Board" (id 0) (at 104.14 74.2184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "fpga-wukong.kicad_sch" (id 1) (at 104.14 97.1046 0)
@@ -738,6 +738,12 @@
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/be62465e-96a6-49ed-939d-0edd4ce2fbeb"
       (reference "J2") (unit 1) (value "DB9_Male_MountingHoles") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
+    )
+    (path "/2879178d-3b15-409b-b355-34424f0e3bd8/24d8d35c-436f-43c1-9f20-ff6b2f007989"
+      (reference "J4") (unit 1) (value "Conn_02x32_Odd_Even") (footprint "")
+    )
+    (path "/2879178d-3b15-409b-b355-34424f0e3bd8/4e0105b8-2efd-42c5-8acf-67155eec9ca7"
+      (reference "J5") (unit 1) (value "Conn_02x32_Odd_Even") (footprint "")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/9b2913aa-2e6f-4a94-a0c7-53573f96600d"
       (reference "J6") (unit 1) (value "SDF-60J for IEC 1541 serial port") (footprint "CUI_SDF-60J")
