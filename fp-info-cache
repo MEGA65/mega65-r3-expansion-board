@@ -1,4 +1,4 @@
-20138671384856396
+20140337176860037
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85700,6 +85700,13 @@ ethernet lan connector
 0
 14
 13
+snapeda
+SOP65P640X120-24N
+
+
+0
+24
+24
 snapeda
 SPUJ191500
 
