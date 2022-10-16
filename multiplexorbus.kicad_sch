@@ -1099,7 +1099,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid bfc46713-8842-459b-b2bc-ad2a6e06bd3e)
   )
-  (text "SN74LVC374 use 3.3V VCC, but support 3.3V and 5V inputs and outputs.\nFor output, they will only output 3.3V, but can tolerate 5V when tri-stated.\n\nWhere we need 5V output from a latch, we will use a 373 series, so that\nthe risk of mixing incompatible voltage families is reduced.\nThe 74LS373 has a V_IH of 2V at VCC=5V, making it suitable for\nthe upconversion from 3.3V to 5V signals.\n\nSeveral of these latches are located on other sheets, near to where\nthe relevant signals occur."
+  (text "SN74LVC374 use 3.3V VCC, but support 3.3V and 5V inputs and outputs.\nFor output, they will only output 3.3V, but can tolerate 5V when tri-stated.\n\nWhere we need 5V output from a latch, we will use a LS series, so that\nthe risk of mixing incompatible voltage families is reduced.\nThe 74LS374 has a V_IH of 2V at VCC=5V, making it suitable for\nthe upconversion from 3.3V to 5V signals.\n\nSeveral of these latches are located on other sheets, near to where\nthe relevant signals occur."
     (at 149.479 156.337 0)
     (effects (font (size 2.3 2.3)) (justify left bottom))
     (uuid c942cb08-5d2c-41d8-87dd-914ddc1339d8)
