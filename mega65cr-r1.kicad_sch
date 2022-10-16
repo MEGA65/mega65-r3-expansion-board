@@ -2334,6 +2334,15 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/8ff77e43-8665-4e1f-b719-3384783dc0fc"
       (reference "#PWR0289") (unit 1) (value "GND") (footprint "")
     )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/2ab9bcbe-7ae5-4060-9598-da6d34752247"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/a829dbef-8bc6-4e11-9c3b-48674158f003"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/cf73c812-4ec0-4bb1-bc7b-d66e004ca318"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
     )
@@ -2748,8 +2757,8 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/953c941d-ca3f-4604-8b02-25f3db123b92"
       (reference "SW1") (unit 1) (value "SW_Push_DPDT") (footprint "snapeda:SPUJ191500")
     )
-    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/fba05a90-2602-4ac3-ad23-9a0e063dbd73"
-      (reference "U1") (unit 1) (value "74LS374") (footprint "Package_DIP:DIP-20_W7.62mm")
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/dd1fb720-8ee6-42ff-8203-18db4fa87988"
+      (reference "U1") (unit 1) (value "74LS373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/9a0e943c-a259-4cbb-9323-0b759fe7a2f2"
       (reference "U2") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
@@ -2757,8 +2766,8 @@
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/96692d68-262d-4b8a-a79d-4598c845012c"
       (reference "U3") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
-    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/4477c50f-2b6b-4d09-a714-7ed2cf8be726"
-      (reference "U4") (unit 1) (value "74LS374") (footprint "Package_DIP:DIP-20_W7.62mm")
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/5ebdd901-131f-4a1f-ad45-738ebdb3d785"
+      (reference "U4") (unit 1) (value "74LS373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/017d9a84-23f0-4360-b537-d0e6691d9265"
       (reference "U5") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
@@ -2790,8 +2799,8 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/86ba6c45-892f-4487-b445-59cc5d9662e8"
       (reference "U8") (unit 1) (value "74LS374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/fc23e0e1-be15-4200-a168-aeb76e5dbf45"
-      (reference "U9") (unit 1) (value "74LS374") (footprint "Package_DIP:DIP-20_W7.62mm")
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2b590827-bb92-4a7c-a829-5b7628af79a8"
+      (reference "U9") (unit 1) (value "74LS373") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/74b447b7-4b8c-4804-a9fb-6686c4b786f9"
       (reference "U10") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
@@ -2996,6 +3005,27 @@
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/137cc2ae-519d-4be7-b87f-5d12ccc56eff"
       (reference "U41") (unit 1) (value "74LS374") (footprint "Package_DIP:DIP-20_W7.62mm")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/6f887be9-7306-4b17-9b52-49873ef46238"
+      (reference "U?") (unit 1) (value "74LS06") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/236de344-49fa-4a7d-ad72-810d77d0a21c"
+      (reference "U?") (unit 2) (value "74LS06") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/2e5d18d6-322b-45e6-9995-a4be272a7331"
+      (reference "U?") (unit 3) (value "74LS06") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/5b6f2b60-85c6-4cfc-bf42-7c400a1bbbf2"
+      (reference "U?") (unit 4) (value "74LS06") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/8cd9ebd7-ddfe-4f19-be13-cd688bd5fead"
+      (reference "U?") (unit 5) (value "74LS06") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/7adabea3-616f-41e0-9fbf-91bada688e34"
+      (reference "U?") (unit 6) (value "74LS06") (footprint "")
+    )
+    (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/18e05b4e-c780-4ce8-bfde-b677f5b95bc1"
+      (reference "U?") (unit 7) (value "74LS06") (footprint "")
     )
   )
 )
