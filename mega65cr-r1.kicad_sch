@@ -2346,6 +2346,24 @@
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/cf73c812-4ec0-4bb1-bc7b-d66e004ca318"
       (reference "#PWR0293") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/28678d86-88cb-4117-ac67-8a735344169c"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/8cc23d8d-40d1-4643-aada-b1561120c39b"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/c26c6650-b859-4f64-a618-5ffc5e31b556"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/dd721cb8-6bf2-4617-8b79-4773871573d0"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/f4854224-7f97-484d-8bf5-6d36215d16f1"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/ff1305ab-d20a-4390-a059-db4a2ea35a7b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
     )
@@ -2484,8 +2502,17 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/23d8201b-e518-40e9-800e-9c0324381d33"
       (reference "J26") (unit 1) (value "Joystick Ports Mezannine Upper") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/2a1d9f8d-a363-4bfa-9e9b-525fe1087bed"
+      (reference "J?") (unit 1) (value "Keyboard JTAG header") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3a411649-1000-4244-bdff-03e5a7b1c1f8"
+      (reference "J?") (unit 1) (value "MEGA65 Keyboard") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "TE0790-03") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/87ae3e69-44e1-4614-bd9a-a637f6c836ab"
+      (reference "JP?") (unit 1) (value "KBD JTAG EN") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1ef8ba9d-49b2-48d8-a4f5-302cd84725b6"
       (reference "L1") (unit 1) (value "22uH, eg SC30R22KT") (footprint "Inductor_THT:L_Axial_L5.0mm_D3.6mm_P10.00mm_Horizontal_Murata_BL01RN1A2A2")
