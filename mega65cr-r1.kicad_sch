@@ -2424,6 +2424,30 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/98e1dc96-efa7-43a7-8ef3-6339b9a020bf"
       (reference "#PWR0319") (unit 1) (value "GND") (footprint "")
     )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/0cf63fec-3aa0-47f7-8e08-d136daac633e"
+      (reference "#PWR0320") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/3af5ecb9-f521-4c2c-bc00-66d1dbca2c72"
+      (reference "#PWR0321") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/841d157c-2eff-4f8b-8902-f6699a4bad05"
+      (reference "#PWR0323") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/04227fee-5fb3-43eb-b12d-fefac9a54a7f"
+      (reference "#PWR0324") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/19de41e1-653f-48c8-8ca9-e31ca1ee409c"
+      (reference "#PWR0325") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/a80c3f03-af77-4d77-9182-c7cd745b7b73"
+      (reference "#PWR0326") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/85687274-3209-407d-8dc0-4a6480254975"
+      (reference "#PWR0327") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/9fbbee1a-7988-4674-9fad-b86dab98b129"
+      (reference "#PWR0328") (unit 1) (value "GND") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
     )
@@ -2510,6 +2534,30 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/45f37c84-b59b-4a54-83a8-593bdc029839"
       (reference "H9") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/d207a76a-ad80-4817-be9e-2b8fa0a0fd08"
+      (reference "H10") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/a9cdbe1f-ea1d-4448-baef-913eccc39bcd"
+      (reference "H11") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/7a3fe1b8-9ed7-4d32-8bdc-d244367d5c66"
+      (reference "H12") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/a628c718-9290-4c9e-ac45-456a417d0bb0"
+      (reference "H13") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/e84fa6cd-7278-47f5-a17f-b517c89e4329"
+      (reference "H14") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/7d9a1e57-33df-4466-ba98-a0ce9fc3b537"
+      (reference "H15") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/6d0e5574-619e-4195-ba31-1a3222590c15"
+      (reference "H16") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/42e33655-bd66-40aa-9122-487800ce77f9"
+      (reference "H17") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c2acfce7-b0b0-4b43-83f2-4799fd516746"
       (reference "J1") (unit 1) (value "DB9_Male_MountingHoles") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
