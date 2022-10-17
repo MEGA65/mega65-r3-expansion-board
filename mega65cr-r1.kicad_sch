@@ -2430,6 +2430,9 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/3af5ecb9-f521-4c2c-bc00-66d1dbca2c72"
       (reference "#PWR0321") (unit 1) (value "GND") (footprint "")
     )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3ff15575-8617-4572-b11f-7c0e0a37c594"
+      (reference "#PWR0322") (unit 1) (value "GND") (footprint "")
+    )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/841d157c-2eff-4f8b-8902-f6699a4bad05"
       (reference "#PWR0323") (unit 1) (value "GND") (footprint "")
     )
@@ -2447,6 +2450,9 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/9fbbee1a-7988-4674-9fad-b86dab98b129"
       (reference "#PWR0328") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6b2f4c06-6bdb-4b83-a537-2e765e9e4fd9"
+      (reference "#PWR0329") (unit 1) (value "+5V") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
@@ -2586,8 +2592,11 @@
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3e7e0971-c1d9-416f-bb74-85af0c4d0c45"
       (reference "J9") (unit 1) (value "1140084168 microSD Card Slot") (footprint "snapeda:AMPHENOL_1140084168")
     )
-    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/83fe70e6-9483-4b57-a80a-2bff7fac445a"
-      (reference "J10") (unit 1) (value "Molex 46765-2301") (footprint "Connector_HDMI:HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal")
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/19c140f0-b3e9-4a2f-b6ae-ed359f892216"
+      (reference "J10") (unit 1) (value "685119134923") (footprint "685119134923")
+    )
+    (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/2c0ea08e-ce1e-4544-b0cb-67a7d78c5be5"
+      (reference "J10") (unit 2) (value "685119134923") (footprint "685119134923")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1314a2a0-beab-44d9-b652-f4b0d81dc254"
       (reference "J11") (unit 1) (value "CON-SOCJ-2155") (footprint "snapeda:GRAVITECH_CON-SOCJ-2155")
