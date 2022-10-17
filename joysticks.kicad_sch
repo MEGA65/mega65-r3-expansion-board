@@ -4363,7 +4363,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 953c941d-ca3f-4604-8b02-25f3db123b92)
     (property "Reference" "SW1" (id 0) (at 109.22 116.84 0))
-    (property "Value" "SW_Push_DPDT" (id 1) (at 109.22 119.38 0))
+    (property "Value" "Reset Button" (id 1) (at 109.22 119.38 0))
     (property "Footprint" "snapeda:SPUJ191500" (id 2) (at 109.22 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
