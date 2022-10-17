@@ -1673,7 +1673,7 @@
     (stroke (width 0.25) (type solid) (color 0 0 0 0))
     (fill (color 255 208 70 1.0000))
     (uuid 3e79ecec-be2d-46e5-9b86-3d84ade3f323)
-    (property "Sheet name" "VGA & Component AV" (id 0) (at 34.5694 127.6985 0)
+    (property "Sheet name" "VGA, C64 AV & C64 Keyboard" (id 0) (at 26.67 127.635 0)
       (effects (font (size 3 3) bold) (justify left bottom))
     )
     (property "Sheet file" "vga.kicad_sch" (id 1) (at 26.3398 134.8486 0)
@@ -2346,14 +2346,35 @@
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/cf73c812-4ec0-4bb1-bc7b-d66e004ca318"
       (reference "#PWR0293") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/05212271-1bdb-4db0-a1bd-f6bdd2f3ddec"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/230614ab-5f6d-4eb9-9b18-b4ff984cf93b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/28678d86-88cb-4117-ac67-8a735344169c"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/530b35e5-e228-472e-a735-6496fc19b354"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/57923e41-00a7-4666-8f26-e80e4c2fdc90"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/7584ad60-fa29-4a20-8bf9-ec3c0ac88099"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/80f38011-f89d-40e1-b90a-06ae01572e7c"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/8cc23d8d-40d1-4643-aada-b1561120c39b"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/98e1dc96-efa7-43a7-8ef3-6339b9a020bf"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/a2f80ac3-fef8-44a9-9acb-e67ec2e85af6"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/c26c6650-b859-4f64-a618-5ffc5e31b556"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -2503,7 +2524,7 @@
       (reference "J22") (unit 1) (value "DB15_Female_HighDensity_MountingHoles") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/f21fe63a-5618-45ac-a995-fde1476d25ed"
-      (reference "J23") (unit 1) (value "3.5mm_Stereo_Audio_Jack STX-3500-4N") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal")
+      (reference "J23") (unit 1) (value "Audio Out") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/808553aa-d67d-40d6-a901-9ceff4abc198"
       (reference "J24") (unit 1) (value "Component A/V") (footprint "snapeda:CUI_SDF-80J")
@@ -2519,6 +2540,9 @@
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/2a1d9f8d-a363-4bfa-9e9b-525fe1087bed"
       (reference "J?") (unit 1) (value "Keyboard JTAG header") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/2e2f9512-0b51-43d5-acc3-ec4f4b74c7e2"
+      (reference "J?") (unit 1) (value "Conn_01x20") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3a411649-1000-4244-bdff-03e5a7b1c1f8"
       (reference "J?") (unit 1) (value "MEGA65 Keyboard") (footprint "")
@@ -3077,6 +3101,12 @@
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/18e05b4e-c780-4ce8-bfde-b677f5b95bc1"
       (reference "U42") (unit 7) (value "74LS06") (footprint "")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/dd334ca1-0e2a-4c9c-af75-615f814a7c65"
+      (reference "U?") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/e5284eb9-4387-4bc4-9506-4c7f6ea4816d"
+      (reference "U?") (unit 1) (value "74LS374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
   )
 )
