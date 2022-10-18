@@ -2668,7 +2668,7 @@
       (reference "J30") (unit 1) (value "Keyboard JTAG header") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/2e2f9512-0b51-43d5-acc3-ec4f4b74c7e2"
-      (reference "J31") (unit 1) (value "Conn_01x20") (footprint "")
+      (reference "J31") (unit 1) (value "Conn_01x20") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "TE0790-03 JTAG + UART") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
