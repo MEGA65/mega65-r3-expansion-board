@@ -2461,7 +2461,7 @@
       (reference "#PWR0331") (unit 1) (value "+5V") (footprint "")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/95a07990-1dfe-42e2-9068-e4fa98b53d88"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0332") (unit 1) (value "GND") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
