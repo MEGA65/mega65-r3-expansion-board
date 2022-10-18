@@ -2785,130 +2785,130 @@
       (reference "R37") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/97441b90-3a7b-45d1-abb1-dc488b7507b7"
-      (reference "R38") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R38") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/74a2e353-2e55-4089-b427-5fbae3e3fba8"
-      (reference "R39") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R39") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/4d89e7d3-eb5b-4e6b-8a45-2d14b57ce4ae"
-      (reference "R40") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R40") (unit 1) (value "2K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/677ae49a-dbe8-4124-a8dc-91dc171cc755"
-      (reference "R41") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R41") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/fcfcad50-b22d-4b7f-918f-d544c3ad72c0"
-      (reference "R42") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R42") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/415f3dac-d093-4e5b-9537-6193a0ba5df8"
-      (reference "R43") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R43") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/65c5af77-9fb7-4ec3-a85c-788b3652f12e"
-      (reference "R44") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R44") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/fbd2cbdc-8696-478a-b4c9-46d2e9c66e32"
-      (reference "R45") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R45") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/8b483871-8809-461b-b0fa-b859dcb9f4ed"
-      (reference "R46") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R46") (unit 1) (value "2K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/f684ebdd-e21e-4f04-be33-6efb2ea10d78"
-      (reference "R47") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R47") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/09762b45-90ca-421d-a8bd-180d771e9338"
-      (reference "R48") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R48") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/3067e316-90b4-4070-aba4-46cdab2c1d94"
-      (reference "R49") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R49") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/ea7b3ed7-3d7d-400b-896e-abe4867cb7b1"
-      (reference "R50") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R50") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/1f7e3777-478a-40c3-a0bf-909b5a59c408"
-      (reference "R51") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R51") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/10b271c3-fb6e-4683-887a-f5d069975658"
-      (reference "R52") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R52") (unit 1) (value "2K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/5c2d69ba-f612-404c-813f-eb83c4bf6800"
-      (reference "R53") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R53") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/f0af2754-7d6d-41bb-ae3b-f2d1fd064c14"
-      (reference "R54") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R54") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/bda40d48-cb6a-4e2a-b161-5dafdc1959a4"
-      (reference "R55") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R55") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/08708e41-fa00-49f3-82cc-0fd85e945c56"
-      (reference "R56") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R56") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/c42283e5-8759-470f-beac-99e92aea9dc8"
-      (reference "R57") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R57") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/d3dd59af-f988-4a69-b152-378c9db5f9ff"
-      (reference "R58") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R58") (unit 1) (value "2K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/f6c43bf9-ecfd-4391-8eec-261c608111b3"
-      (reference "R59") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R59") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/2c7649a5-59db-4a62-bef0-6ed900b83bf1"
-      (reference "R60") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R60") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/dadf2cf1-77c3-4ce7-ac24-dbf9ab8e7e1a"
-      (reference "R61") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R61") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/44f5ebc0-27ce-4384-85ff-e5dddc649cd2"
-      (reference "R62") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R62") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/da5a2b26-3ce7-49fa-9964-371817e20ff0"
-      (reference "R63") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R63") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/bea98dfc-9659-455a-8e95-8859c4032d07"
-      (reference "R64") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R64") (unit 1) (value "2K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/5da0b914-f6d7-4487-91c9-aff13daab4e7"
-      (reference "R65") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R65") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/d2defdd0-c299-4e8e-9cfb-2162b32e1020"
-      (reference "R66") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R66") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/dff4c41e-0c03-447a-b036-bfa75f48fbb1"
-      (reference "R67") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R67") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/9117e791-3ab0-4b51-a1f2-1ddb2bc54d08"
-      (reference "R68") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R68") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/718ffbdf-1888-4049-b28c-e4445f31146a"
-      (reference "R69") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R69") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/3290d0d4-ae94-4f93-91c8-3df48d501774"
-      (reference "R70") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R70") (unit 1) (value "2K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/ae2d46e1-df9c-4406-a5cc-e548470d7f42"
-      (reference "R71") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R71") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/b59852e3-6bf5-42fb-9452-65eca1f14a94"
-      (reference "R72") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R72") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/27915d82-474f-4f2c-9c6b-3312555e8724"
-      (reference "R73") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R73") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/418328bc-3ccd-48f2-b15c-1ae3ffe78ba3"
-      (reference "R74") (unit 1) (value "510R") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R74") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/cc886bfc-43db-4ac0-8a04-10f4f9b02cce"
-      (reference "R75") (unit 1) (value "1K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R75") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/cab72ab5-2a19-4784-9e86-b8ca5394724a"
-      (reference "R76") (unit 1) (value "2K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R76") (unit 1) (value "2K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/4a2c37a8-1672-4462-8070-e9c681f04c53"
-      (reference "R77") (unit 1) (value "4K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R77") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/9164cdee-e848-4990-aeb1-efa1faab3c6c"
-      (reference "R78") (unit 1) (value "8K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R78") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/895b246d-09da-41d1-b77f-e695d5873a95"
-      (reference "R79") (unit 1) (value "16K0") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R79") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/07aa72d4-d9d8-4b04-a244-f888a95af180"
       (reference "R80") (unit 1) (value "49R9") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
