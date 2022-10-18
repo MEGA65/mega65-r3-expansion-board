@@ -4566,7 +4566,7 @@
     (uuid c01bc450-de7d-47e0-bef9-b675664bd8bb)
     (property "Reference" "R11" (id 0) (at 133.35 124.46 90))
     (property "Value" "4K7" (id 1) (at 133.35 127 90))
-    (property "Footprint" "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm" (id 2) (at 133.35 127 0)
+    (property "Footprint" "snapeda:Labeled Resistor" (id 2) (at 133.35 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.35 127 0)

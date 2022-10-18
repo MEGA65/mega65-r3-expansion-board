@@ -5596,7 +5596,7 @@
     (uuid 3a411649-1000-4244-bdff-03e5a7b1c1f8)
     (property "Reference" "J29" (id 0) (at 152.4 119.38 0))
     (property "Value" "MEGA65 Keyboard" (id 1) (at 152.4 121.92 0))
-    (property "Footprint" "" (id 2) (at 151.13 131.445 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" (id 2) (at 151.13 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 151.13 131.445 0)

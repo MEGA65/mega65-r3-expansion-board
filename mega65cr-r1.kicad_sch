@@ -2662,7 +2662,7 @@
       (reference "J28") (unit 1) (value "UART") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/3a411649-1000-4244-bdff-03e5a7b1c1f8"
-      (reference "J29") (unit 1) (value "MEGA65 Keyboard") (footprint "")
+      (reference "J29") (unit 1) (value "MEGA65 Keyboard") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/2a1d9f8d-a363-4bfa-9e9b-525fe1087bed"
       (reference "J30") (unit 1) (value "Keyboard JTAG header") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
@@ -2713,7 +2713,7 @@
       (reference "R10") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c01bc450-de7d-47e0-bef9-b675664bd8bb"
-      (reference "R11") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+      (reference "R11") (unit 1) (value "4K7") (footprint "snapeda:Labeled Resistor")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/7dd24498-17a6-4428-b532-493354171325"
       (reference "R12") (unit 1) (value "4K7") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
@@ -3202,25 +3202,25 @@
       (reference "U41") (unit 1) (value "74LS374") (footprint "Package_DIP:DIP-20_W7.62mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/6f887be9-7306-4b17-9b52-49873ef46238"
-      (reference "U42") (unit 1) (value "74LS06") (footprint "")
+      (reference "U42") (unit 1) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/236de344-49fa-4a7d-ad72-810d77d0a21c"
-      (reference "U42") (unit 2) (value "74LS06") (footprint "")
+      (reference "U42") (unit 2) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/2e5d18d6-322b-45e6-9995-a4be272a7331"
-      (reference "U42") (unit 3) (value "74LS06") (footprint "")
+      (reference "U42") (unit 3) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/5b6f2b60-85c6-4cfc-bf42-7c400a1bbbf2"
-      (reference "U42") (unit 4) (value "74LS06") (footprint "")
+      (reference "U42") (unit 4) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/8cd9ebd7-ddfe-4f19-be13-cd688bd5fead"
-      (reference "U42") (unit 5) (value "74LS06") (footprint "")
+      (reference "U42") (unit 5) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/7adabea3-616f-41e0-9fbf-91bada688e34"
-      (reference "U42") (unit 6) (value "74LS06") (footprint "")
+      (reference "U42") (unit 6) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/18e05b4e-c780-4ce8-bfde-b677f5b95bc1"
-      (reference "U42") (unit 7) (value "74LS06") (footprint "")
+      (reference "U42") (unit 7) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/dd334ca1-0e2a-4c9c-af75-615f814a7c65"
       (reference "U43") (unit 1) (value "74LVC374") (footprint "Package_DIP:DIP-20_W7.62mm")
