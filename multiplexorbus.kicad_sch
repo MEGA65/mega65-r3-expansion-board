@@ -1090,7 +1090,7 @@
     (effects (font (size 2.3 2.3)) (justify left bottom))
     (uuid 9dbeec11-c481-4972-86c2-4034a0ffd0a7)
   )
-  (text "Multiplexor Bus Register Allocation\n-----------------------------------\n\nMUX_LATCH_0 R/W = 34-pin floppy\nMUX_LATCH_1 R/W = IEC Serial\nMUX_LATCH_2 R/W = Joystick 1\nMUX_LATCH_3 R/W = Joystick 2\nMUX_LATCH_4 R/W = Casette port\nMUX_LATCH_5 R/W = Userport control signals\nMUX_LATCH_6 R/W = Userport Data lines\nMUX_LATCH_7   W = Userport DDR\nMUX_LATCH_8 R   = DIP switch bank\nMUX_LATCH_9--13 = Expansion port\nMUX_LATCH_14    = C64 keyboard\nMUX_LATCH_15    = RESERVED for global de-selection"
+  (text "Multiplexor Bus Register Allocation\n-----------------------------------\n\nMUX_LATCH_0 R/W = 34-pin floppy\nMUX_LATCH_1     = C64 keyboard\nMUX_LATCH_2     = RESERVED FOR GLOBAL DE-SELECT\nMUX_LATCH_3  R    = DIP switch bank\nMUX_LATCH_4  R/W = Casette port\nMUX_LATCH_5  R/W = Userport control signals\nMUX_LATCH_6  R/W = Userport Data lines\nMUX_LATCH_7   W = Userport DDR\nMUX_LATCH_8 R/W = IEC Serial\nMUX_LATCH_9--13  = Expansion port\nMUX_LATCH_14  R/W = Joystick 1\nMUX_LATCH_15 R/W = Joystick 2\n"
     (at 153.67 102.616 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid b97ea05f-58bf-47db-b41e-a0bc332d4ddf)
