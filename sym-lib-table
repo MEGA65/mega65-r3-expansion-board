@@ -10,4 +10,5 @@
   (lib (name "00Project-microSD")(type "KiCad")(uri "${KIPRJMOD}/library/1140084168.kicad_sym")(options "")(descr ""))
   (lib (name "00Project-SDcard")(type "KiCad")(uri "${KIPRJMOD}/library/FPS009-2405-0.kicad_sym")(options "")(descr ""))
   (lib (name "00ProjectHDMI")(type "KiCad")(uri "${KIPRJMOD}/library/685119134923.kicad_sym")(options "")(descr ""))
+  (lib (name "00Project-DIP-SW-4")(type "Legacy")(uri "${KIPRJMOD}/library/418117270904.lib")(options "")(descr ""))
 )
