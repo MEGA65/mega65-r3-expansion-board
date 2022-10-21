@@ -2442,6 +2442,21 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/95a07990-1dfe-42e2-9068-e4fa98b53d88"
       (reference "#PWR0332") (unit 1) (value "GND") (footprint "")
     )
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/19d87b7e-fe7e-4570-a196-00290e5fd669"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/426bcca1-d19f-4b0e-8f94-addc4711d420"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/54c5a100-9c56-4489-b113-b134f9d786b8"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/62e2dd2f-06b5-4a45-aa72-c6bfb86187bd"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/e4d20a77-1129-45fd-b1d1-80a5e274b6bf"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
     )
@@ -2675,21 +2690,6 @@
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/7c32f82c-7b7c-428d-a080-6b74e753a211"
       (reference "R5") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
-    )
-    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/cf055ee7-ea4e-4b24-8605-bce47613ea77"
-      (reference "R6") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
-    )
-    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/60af5b1c-612f-4fa3-874b-d939585464ae"
-      (reference "R7") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
-    )
-    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/4457a05e-91a7-4b1c-bd3e-0524fde06010"
-      (reference "R8") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
-    )
-    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/973f438b-d1bb-4061-aff8-88e4594702d5"
-      (reference "R9") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
-    )
-    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/e1a1e5ba-7563-494a-8568-799d4161b5d9"
-      (reference "R10") (unit 1) (value "1K") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c01bc450-de7d-47e0-bef9-b675664bd8bb"
       (reference "R11") (unit 1) (value "4K7") (footprint "snapeda:Labeled Resistor")
