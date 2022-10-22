@@ -2470,7 +2470,10 @@
       (reference "#PWR0334") (unit 1) (value "GND") (footprint "")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/4e2a0c99-b027-4ac3-971c-cbece3de9d1f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0335") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/69ea5373-0421-4e38-9893-6e98c67ec332"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
@@ -2680,7 +2683,7 @@
       (reference "J31") (unit 1) (value "Conn_01x20") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/f93c2944-3887-445c-af7c-f9399ddf34a7"
-      (reference "J?") (unit 1) (value "Mini-DIN-8-With-Shield") (footprint "snapeda:mini-DIN-8")
+      (reference "J32") (unit 1) (value "Mini-DIN-8-With-Shield") (footprint "snapeda:mini-DIN-8")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "TE0790-03 JTAG + UART") (footprint "snapeda:PinHeader_2x06_P2.54mm_Vertical_Flipped")
@@ -2921,6 +2924,9 @@
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/cfdcd432-4c9f-454e-b0e8-f163ba37809b"
       (reference "R81") (unit 1) (value "49R9") (footprint "Resistor_THT:R_Box_L8.4mm_W2.5mm_P5.08mm")
+    )
+    (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/b83aa10e-88b6-4e3b-a4f2-ab4d3583d38e"
+      (reference "R?") (unit 1) (value "4K7") (footprint "snapeda:Labeled Resistor")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/48bae830-5589-4a61-bf82-2457b085f4db"
       (reference "RN1") (unit 1) (value "10K x 4 eg 4605M-101-103LF") (footprint "Resistor_THT:R_Array_SIP5")
