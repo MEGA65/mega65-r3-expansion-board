@@ -1,4 +1,4 @@
-20153664818968679
+20155331220263358
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85728,6 +85728,13 @@ Resistor Box series Radial pin pitch 5.08mm 0.5W = 1/2W length 8.38mm width 2.54
 0
 2
 2
+snapeda
+PinHeader_2x06_P2.54mm_Vertical_Flipped
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
+0
+12
+12
 snapeda
 QFN50P500X500X85-33N
 

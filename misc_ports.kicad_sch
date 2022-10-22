@@ -4805,7 +4805,7 @@
     (uuid 6ae69464-2d73-4178-9968-f9b8f7d40307)
     (property "Reference" "JB1" (id 0) (at 152.4 88.9 0))
     (property "Value" "TE0790-03 JTAG + UART" (id 1) (at 152.4 91.44 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical" (id 2) (at 151.13 100.965 0)
+    (property "Footprint" "snapeda:PinHeader_2x06_P2.54mm_Vertical_Flipped" (id 2) (at 151.13 100.965 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 151.13 100.965 0)
