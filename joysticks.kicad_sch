@@ -4489,7 +4489,7 @@
   (symbol (lib_id "74xx:74LS374") (at 184.15 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c5220de0-c3e4-46ba-990f-e00b71c1e441)
-    (property "Reference" "U?" (id 0) (at 186.1694 100.33 0)
+    (property "Reference" "U9" (id 0) (at 186.1694 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS374" (id 1) (at 186.1694 102.87 0)

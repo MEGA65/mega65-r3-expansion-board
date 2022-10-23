@@ -2685,6 +2685,9 @@
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/f93c2944-3887-445c-af7c-f9399ddf34a7"
       (reference "J32") (unit 1) (value "Mini-DIN-8-With-Shield") (footprint "snapeda:mini-DIN-8")
     )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/ac267bc6-fe0f-4747-9149-24485e5070f4"
+      (reference "J33") (unit 1) (value "Header for power lead to QMTECH WUKONG FPGA board") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "TE0790-03 JTAG + UART") (footprint "snapeda:PinHeader_2x06_P2.54mm_Vertical_Flipped")
     )
@@ -2997,6 +3000,9 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/86ba6c45-892f-4487-b445-59cc5d9662e8"
       (reference "U8") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
+    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c5220de0-c3e4-46ba-990f-e00b71c1e441"
+      (reference "U9") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/74b447b7-4b8c-4804-a9fb-6686c4b786f9"
       (reference "U10") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
@@ -3203,9 +3209,6 @@
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/e5284eb9-4387-4bc4-9506-4c7f6ea4816d"
       (reference "U44") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c5220de0-c3e4-46ba-990f-e00b71c1e441"
-      (reference "U?") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
   )
 )
