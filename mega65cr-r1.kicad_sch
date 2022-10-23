@@ -1842,29 +1842,14 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/6ad86a15-1517-4444-beda-b1b5c6eb7e87"
       (reference "#PWR0125") (unit 1) (value "GND2") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/40e11e29-d935-45d3-b7a3-644b49b0518b"
-      (reference "#PWR0126") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/1483bfc4-26f2-436b-ad58-06c9f320026d"
       (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/45cf7e54-1672-448a-b98a-1dfdbf61152f"
-      (reference "#PWR0128") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/ac19136e-fd3b-43c8-a561-a8e9bc36f59d"
-      (reference "#PWR0129") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2156995d-686b-469b-8525-559d7c618878"
-      (reference "#PWR0130") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/ed8e4911-d8ee-4ae6-985a-9daaa1f7772b"
       (reference "#PWR0131") (unit 1) (value "GND") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/255a8765-6a32-430b-b242-6bd88db97c53"
       (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/2b6297a4-6339-4b99-b0e9-f7621abda445"
-      (reference "#PWR0133") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/05cb19ab-67fa-4072-ac6f-da2eb0de4b65"
       (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
@@ -1905,9 +1890,6 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/d833c5c6-bb9a-4671-9e0a-763272549e18"
       (reference "#PWR0146") (unit 1) (value "GND2") (footprint "")
     )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/b56d7147-fbff-468f-837f-4292f29d847d"
-      (reference "#PWR0147") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c1383776-0664-4515-96dd-19931de3b74c"
       (reference "#PWR0148") (unit 1) (value "GND2") (footprint "")
     )
@@ -1916,9 +1898,6 @@
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/1c3dbff9-2a52-4acb-9031-74e0e689a4ce"
       (reference "#PWR0150") (unit 1) (value "GND2") (footprint "")
-    )
-    (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/ea1fd522-7696-49ab-981b-5f3fdc8189e6"
-      (reference "#PWR0151") (unit 1) (value "+5V") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/18206ca8-3083-4bc1-a3a1-f57f4e5032b2"
       (reference "#PWR0152") (unit 1) (value "GND") (footprint "")
@@ -2644,7 +2623,7 @@
       (reference "J14") (unit 1) (value "Conn_02x17_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/96f80151-984a-4c4a-93f0-16c5679841aa"
-      (reference "J15") (unit 1) (value "696101000002 Fuse Holder 20mm") (footprint "snapeda:696101000002")
+      (reference "J15") (unit 1) (value "Fuse Holder 5A") (footprint "snapeda:696101000002")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/587feeb8-c85c-4259-80c9-5b83a2a9dffa"
       (reference "J16") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
