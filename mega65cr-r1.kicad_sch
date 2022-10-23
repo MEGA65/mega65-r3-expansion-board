@@ -2869,7 +2869,7 @@
       (reference "R54") (unit 1) (value "8K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/bda40d48-cb6a-4e2a-b161-5dafdc1959a4"
-      (reference "R55") (unit 1) (value "16K0") (footprint "snapeda:Labeled Resistor")
+      (reference "R55") (unit 1) (value "16K") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/08708e41-fa00-49f3-82cc-0fd85e945c56"
       (reference "R56") (unit 1) (value "510R") (footprint "snapeda:Labeled Resistor")
@@ -2968,7 +2968,7 @@
       (reference "RN6") (unit 1) (value "3.3K x 8") (footprint "Resistor_THT:R_Array_SIP9")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/0a495c84-93be-4d83-bb54-1b02c38e021a"
-      (reference "S1") (unit 1) (value "418117270904") (footprint "418117270904")
+      (reference "S3") (unit 1) (value "418117270904") (footprint "418117270904")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/953c941d-ca3f-4604-8b02-25f3db123b92"
       (reference "SW1") (unit 1) (value "Reset Button") (footprint "snapeda:SPUJ191500")
@@ -2989,25 +2989,25 @@
       (reference "U4") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/017d9a84-23f0-4360-b537-d0e6691d9265"
-      (reference "U5") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U5") (unit 1) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c81e0885-89ea-4b07-8849-8fc2e3fe307d"
-      (reference "U5") (unit 2) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U5") (unit 2) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/dfe35629-81dd-42e1-9ec4-7d67f3f1db63"
-      (reference "U5") (unit 3) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U5") (unit 3) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/820bcf66-567f-4a4a-9168-84d0d58edc03"
-      (reference "U5") (unit 4) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U5") (unit 4) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/770a0628-539b-41aa-a7de-7e4787a8dfae"
-      (reference "U5") (unit 5) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U5") (unit 5) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/20569603-57d5-4f78-b4ef-23631889ae54"
-      (reference "U5") (unit 6) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U5") (unit 6) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/27900244-0d71-413c-8cd3-b7f7989591bb"
-      (reference "U5") (unit 7) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U5") (unit 7) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/7820f3d0-91fb-48eb-9775-f0dfeef45948"
       (reference "U6") (unit 1) (value "74LVC374") (footprint "snapeda:DIP-20_LVC_Family")
@@ -3022,46 +3022,46 @@
       (reference "U9") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/74b447b7-4b8c-4804-a9fb-6686c4b786f9"
-      (reference "U10") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U10") (unit 1) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/1247cdd5-def1-4773-8de5-272f3333178c"
-      (reference "U10") (unit 2) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U10") (unit 2) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/9872c539-4111-4bc0-9396-b95a8a8d39a8"
-      (reference "U10") (unit 3) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U10") (unit 3) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/df527206-77fd-4172-aa62-c9c60862c71c"
-      (reference "U10") (unit 4) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U10") (unit 4) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/25e827dd-615a-4940-bef0-683d38627be2"
-      (reference "U10") (unit 5) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U10") (unit 5) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/7ed00cd6-9059-4cbc-9e98-fbbba0f3f989"
-      (reference "U10") (unit 6) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U10") (unit 6) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/86037528-6ff3-4771-9fd6-4440769f698b"
-      (reference "U10") (unit 7) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U10") (unit 7) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/50e8bd51-9af5-45ff-a075-aa5e77cfa272"
-      (reference "U11") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U11") (unit 1) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/77079b6a-7088-46f0-8579-cbd89d47b64b"
-      (reference "U11") (unit 2) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U11") (unit 2) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/63d1090a-293b-4dde-b51c-15161948cb3f"
-      (reference "U11") (unit 3) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U11") (unit 3) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/c20c801c-a33a-4b1b-a71f-54155088f863"
-      (reference "U11") (unit 4) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U11") (unit 4) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/28c25d20-b7b7-416a-bfa7-67bbb3ec183f"
-      (reference "U11") (unit 5) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U11") (unit 5) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/7e841701-79eb-402a-85c3-483e683d1313"
-      (reference "U11") (unit 6) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U11") (unit 6) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/b01f2409-f8af-4bc6-b1ef-89bad21c35fe"
-      (reference "U11") (unit 7) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U11") (unit 7) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/36c3157a-6040-496c-9c44-4dbe2c61b79b"
       (reference "U12") (unit 1) (value "DP83826") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm_ThermalVias")
@@ -3085,73 +3085,73 @@
       (reference "U19") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/3aae1a8b-a2e1-4430-b51e-1db75f551d46"
-      (reference "U20") (unit 1) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U20") (unit 1) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/84980c7c-2004-42a4-bc06-9215af5c2733"
-      (reference "U20") (unit 2) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U20") (unit 2) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/a1be3833-03fa-4d95-9a9b-d26f90337b22"
-      (reference "U20") (unit 3) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U20") (unit 3) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/6c464095-bc57-4f67-9bd0-faedeba1fda7"
-      (reference "U20") (unit 4) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U20") (unit 4) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/416714b7-4b90-49ac-b51f-e8baae1d543b"
-      (reference "U20") (unit 5) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U20") (unit 5) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/24523884-27b3-4f4b-a751-221e4d453efa"
-      (reference "U21") (unit 1) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U21") (unit 1) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/9deddb9f-e5c5-4bfe-af53-9a10aa5185b6"
-      (reference "U21") (unit 2) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U21") (unit 2) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/71c19702-d331-4d80-96cf-3856a68164ba"
-      (reference "U21") (unit 3) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U21") (unit 3) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/0b292420-fa80-415e-baca-0ae378675929"
-      (reference "U21") (unit 4) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U21") (unit 4) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c6d04682-ca45-4396-93d9-365c02b81696"
-      (reference "U21") (unit 5) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U21") (unit 5) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/b71736dd-85f0-4712-9759-f5c8b4a199d1"
-      (reference "U22") (unit 1) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U22") (unit 1) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/a5866dd7-448e-4b08-9187-0c1a95b9c242"
-      (reference "U22") (unit 2) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U22") (unit 2) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/ba429a0a-9d55-48df-a37d-21b647103873"
-      (reference "U22") (unit 3) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U22") (unit 3) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/f2f180be-4a71-4878-a9c3-fa4c8d02de3f"
-      (reference "U22") (unit 4) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U22") (unit 4) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/c2f738e2-756f-4d3d-aae0-ff368626fc29"
-      (reference "U22") (unit 5) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U22") (unit 5) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/d0c332e2-92c8-4ee5-b7ca-232d1c1edfed"
-      (reference "U22") (unit 6) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U22") (unit 6) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/bf6f0944-6234-4b84-bc75-6d48246ce101/104ad3ac-beef-46c8-828f-c241f4954af7"
-      (reference "U22") (unit 7) (value "74LS06N") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U22") (unit 7) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/f7c47a44-a53c-4f8a-8439-b831f4f06643"
       (reference "U23") (unit 1) (value "74LVC374") (footprint "snapeda:DIP-20_LVC_Family")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/982ea69b-1a88-48fb-b861-11f2e88e9b3d"
-      (reference "U24") (unit 1) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U24") (unit 1) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/11003a5c-b386-4122-a7b5-49a1f4fb22cb"
-      (reference "U24") (unit 2) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U24") (unit 2) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c7b432e5-68e5-4548-a054-8cff8004110a"
-      (reference "U24") (unit 3) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U24") (unit 3) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/eb17b223-7b30-4d6b-b68e-983a70f3ec34"
-      (reference "U24") (unit 4) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U24") (unit 4) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/8cb311a9-31e9-4b5c-8b09-87fec6f48050"
-      (reference "U24") (unit 5) (value "74LS125") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U24") (unit 5) (value "74LS125") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/979769f5-d908-4f93-ab96-aa231e615dd4"
       (reference "U25") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
@@ -3160,16 +3160,16 @@
       (reference "U26") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/c4b99796-0ade-4589-b121-242de1fd8bc1"
-      (reference "U27") (unit 1) (value "74LS138") (footprint "Package_DIP:DIP-16_W7.62mm")
+      (reference "U27") (unit 1) (value "74LS138") (footprint "snapeda:DIP-16_LS_Family")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/9314620b-84d0-4930-924c-da30dc3e0ee9"
-      (reference "U28") (unit 1) (value "74LS138") (footprint "Package_DIP:DIP-16_W7.62mm")
+      (reference "U28") (unit 1) (value "74LS138") (footprint "snapeda:DIP-16_LS_Family")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/31d45551-f444-4dbb-8251-bdb0b8976d2e"
-      (reference "U29") (unit 1) (value "74LS137") (footprint "Package_DIP:DIP-16_W7.62mm")
+      (reference "U29") (unit 1) (value "74LS137") (footprint "snapeda:DIP-16_LVC_Family")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/2d22ed64-be77-44f0-a29a-138d6e9c4231"
-      (reference "U30") (unit 1) (value "74LS137") (footprint "Package_DIP:DIP-16_W7.62mm")
+      (reference "U30") (unit 1) (value "74LS137") (footprint "snapeda:DIP-16_LVC_Family")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/589b68f4-ec6c-4fa9-a4d2-2de5251ba934"
       (reference "U32") (unit 1) (value "74LVC374") (footprint "snapeda:DIP-20_LVC_Family")
@@ -3202,25 +3202,25 @@
       (reference "U41") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/6f887be9-7306-4b17-9b52-49873ef46238"
-      (reference "U42") (unit 1) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U42") (unit 1) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/236de344-49fa-4a7d-ad72-810d77d0a21c"
-      (reference "U42") (unit 2) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U42") (unit 2) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/2e5d18d6-322b-45e6-9995-a4be272a7331"
-      (reference "U42") (unit 3) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U42") (unit 3) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/5b6f2b60-85c6-4cfc-bf42-7c400a1bbbf2"
-      (reference "U42") (unit 4) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U42") (unit 4) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/8cd9ebd7-ddfe-4f19-be13-cd688bd5fead"
-      (reference "U42") (unit 5) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U42") (unit 5) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/7adabea3-616f-41e0-9fbf-91bada688e34"
-      (reference "U42") (unit 6) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U42") (unit 6) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/18e05b4e-c780-4ce8-bfde-b677f5b95bc1"
-      (reference "U42") (unit 7) (value "74LS06") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U42") (unit 7) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/dd334ca1-0e2a-4c9c-af75-615f814a7c65"
       (reference "U43") (unit 1) (value "74LVC374") (footprint "snapeda:DIP-20_LVC_Family")

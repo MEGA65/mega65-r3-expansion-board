@@ -3776,7 +3776,7 @@
     (in_bom yes) (on_board yes)
     (uuid bda40d48-cb6a-4e2a-b161-5dafdc1959a4)
     (property "Reference" "R55" (id 0) (at 41.91 116.205 90))
-    (property "Value" "16K0" (id 1) (at 36.83 117.475 90))
+    (property "Value" "16K" (id 1) (at 36.83 117.475 90))
     (property "Footprint" "snapeda:Labeled Resistor" (id 2) (at 36.83 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )

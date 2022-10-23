@@ -1,4 +1,4 @@
-20161997164226461
+20168663142027298
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85707,6 +85707,34 @@ CUI_SDF-80J
 0
 10
 10
+snapeda
+DIP-14_74LS06
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+snapeda
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+snapeda
+DIP-16_LS_Family
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+snapeda
+DIP-16_LVC_Family
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
 snapeda
 DIP-20_LS_Family
 20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
