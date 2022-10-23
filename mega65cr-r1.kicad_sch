@@ -1768,7 +1768,7 @@
 
   (symbol_instances
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/480d74f8-aa08-4b6a-8b9f-c8000c3aedaf"
-      (reference "#G?") (unit 1) (value "LOGO") (footprint "snapeda:MEGA65-logo")
+      (reference "#G1") (unit 1) (value "LOGO") (footprint "snapeda:MEGA65-logo")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/2868be52-a242-4ff7-8286-d525ad6b7ec5"
       (reference "#LOGO1") (unit 1) (value "Logo_Open_Hardware_Large") (footprint "Symbol:OSHW-Logo2_14.6x12mm_SilkScreen")
@@ -3187,25 +3187,25 @@
       (reference "U41") (unit 1) (value "74LS374") (footprint "snapeda:DIP-20_LS_Family")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/6f887be9-7306-4b17-9b52-49873ef46238"
-      (reference "U42") (unit 1) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
+      (reference "U42") (unit 1) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/236de344-49fa-4a7d-ad72-810d77d0a21c"
-      (reference "U42") (unit 2) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
+      (reference "U42") (unit 2) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/2e5d18d6-322b-45e6-9995-a4be272a7331"
-      (reference "U42") (unit 3) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
+      (reference "U42") (unit 3) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/5b6f2b60-85c6-4cfc-bf42-7c400a1bbbf2"
-      (reference "U42") (unit 4) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
+      (reference "U42") (unit 4) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/8cd9ebd7-ddfe-4f19-be13-cd688bd5fead"
-      (reference "U42") (unit 5) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
+      (reference "U42") (unit 5) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/7adabea3-616f-41e0-9fbf-91bada688e34"
-      (reference "U42") (unit 6) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
+      (reference "U42") (unit 6) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/601f3fca-6ee6-4b4f-870c-3e6d075cb571/18e05b4e-c780-4ce8-bfde-b677f5b95bc1"
-      (reference "U42") (unit 7) (value "74LS06") (footprint "snapeda:DIP-14_74LS06")
+      (reference "U42") (unit 7) (value "74LS06N") (footprint "snapeda:DIP-14_74LS06")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/dd334ca1-0e2a-4c9c-af75-615f814a7c65"
       (reference "U43") (unit 1) (value "74LVC374") (footprint "snapeda:DIP-20_LVC_Family")

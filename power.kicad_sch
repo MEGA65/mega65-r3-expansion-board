@@ -3853,7 +3853,7 @@
   (symbol (lib_id "00Project-MEGA65-logo:LOGO") (at 211.455 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 480d74f8-aa08-4b6a-8b9f-c8000c3aedaf)
-    (property "Reference" "#G?" (id 0) (at 211.455 143.0726 0)
+    (property "Reference" "#G1" (id 0) (at 211.455 143.0726 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "LOGO" (id 1) (at 211.455 151.5674 0)
