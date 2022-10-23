@@ -2142,9 +2142,6 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/6c85fb70-1d53-4298-9a7f-c1170d156141"
       (reference "#PWR0230") (unit 1) (value "GND") (footprint "")
     )
-    (path "/48871385-9b55-4bb1-8319-1c951289d910/63232789-70c0-497d-b271-f0e018088eb8"
-      (reference "#PWR0231") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/a76db4b4-8cea-4590-b5b4-ffce770c1798"
       (reference "#PWR0232") (unit 1) (value "+5V") (footprint "")
     )
@@ -2471,6 +2468,9 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/33c4f161-4a16-4e21-925b-ed843d4d7f84"
       (reference "#PWR0340") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/48871385-9b55-4bb1-8319-1c951289d910/6d9f67e9-711b-44c7-925a-ec2d44d859b1"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
@@ -3151,7 +3151,7 @@
       (reference "U28") (unit 1) (value "74LS138") (footprint "snapeda:DIP-16_LS_Family")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/31d45551-f444-4dbb-8251-bdb0b8976d2e"
-      (reference "U29") (unit 1) (value "74LS137") (footprint "snapeda:DIP-16_LVC_Family")
+      (reference "U29") (unit 1) (value "74LS137") (footprint "snapeda:DIP-16_LS_Family")
     )
     (path "/48871385-9b55-4bb1-8319-1c951289d910/2d22ed64-be77-44f0-a29a-138d6e9c4231"
       (reference "U30") (unit 1) (value "74LS137") (footprint "snapeda:DIP-16_LVC_Family")
