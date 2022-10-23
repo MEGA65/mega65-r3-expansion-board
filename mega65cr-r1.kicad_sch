@@ -1848,6 +1848,9 @@
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/6ad86a15-1517-4444-beda-b1b5c6eb7e87"
       (reference "#PWR0125") (unit 1) (value "GND2") (footprint "")
     )
+    (path "/48871385-9b55-4bb1-8319-1c951289d910/6d9f67e9-711b-44c7-925a-ec2d44d859b1"
+      (reference "#PWR0126") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/ee5f4bc8-ae5c-44e7-a23d-2b06f471a294/1483bfc4-26f2-436b-ad58-06c9f320026d"
       (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
     )
@@ -2469,9 +2472,6 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/33c4f161-4a16-4e21-925b-ed843d4d7f84"
       (reference "#PWR0340") (unit 1) (value "GND") (footprint "")
     )
-    (path "/48871385-9b55-4bb1-8319-1c951289d910/6d9f67e9-711b-44c7-925a-ec2d44d859b1"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/85af0cf4-4573-468d-b277-801bcd173889"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm")
     )
@@ -2690,6 +2690,9 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/d013c794-e5ab-41e0-a543-c99deca99a40"
       (reference "J35") (unit 1) (value "Conn_01x04") (footprint "snapeda:FloppyPower")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/5c5b278f-6828-4f6f-8ef8-5ce3d00c9bd8"
+      (reference "J36") (unit 1) (value "Power switch bypass") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/6ae69464-2d73-4178-9968-f9b8f7d40307"
       (reference "JB1") (unit 1) (value "TE0790-03 JTAG + UART") (footprint "snapeda:PinHeader_2x06_P2.54mm_Vertical_Flipped")
