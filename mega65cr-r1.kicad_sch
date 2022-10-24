@@ -2509,7 +2509,7 @@
       (reference "C18") (unit 1) (value "180uF 16V") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/fe331beb-e117-42aa-804c-29e62e6062ec"
-      (reference "D1") (unit 1) (value "5V 40V 1N5825") (footprint "Diode_THT:D_5KP_P12.70mm_Horizontal")
+      (reference "D1") (unit 1) (value "5A 40V eg SB1240") (footprint "Diode_THT:D_5KP_P12.70mm_Horizontal")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/b3ac3ed1-b090-4870-a604-b1e1a2c09a5f"
       (reference "FB1") (unit 1) (value "FerriteBead FT-3AMB4ARLY-PF") (footprint "snapeda:Ferrite_Bead_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal")
@@ -2683,7 +2683,7 @@
       (reference "JP1") (unit 1) (value "KBD JTAG EN") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/1ef8ba9d-49b2-48d8-a4f5-302cd84725b6"
-      (reference "L1") (unit 1) (value "22uH, eg SC30R22KT") (footprint "Inductor_THT:L_Axial_L5.0mm_D3.6mm_P10.00mm_Horizontal_Murata_BL01RN1A2A2")
+      (reference "L1") (unit 1) (value "22uH") (footprint "Inductor_THT:L_Axial_L5.0mm_D3.6mm_P10.00mm_Horizontal_Murata_BL01RN1A2A2")
     )
     (path "/46f1890f-c5bb-4aae-8808-0511f47e29d8/dc81cab9-d39c-4b6f-8e0a-aca0a491abef"
       (reference "P1") (unit 1) (value "Full-side CD Card Slot") (footprint "snapeda:YAMAICHI_FPS009-2405-0")
