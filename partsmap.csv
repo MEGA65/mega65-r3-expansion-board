@@ -37,6 +37,37 @@ Conn_01x20;<no datasheet>;<no URL>;649-1012937892003BLF;10129378-920003BLF;mouse
 1K0;<no datasheet>;<no URL>;603-MFR-12FTF52-1K;MFR-12FTF52-1K;mouser.com
 510R;<no datasheet>;<no URL>;603-MFR-12FTF52-510R;MFR-12FTF52-510R;mouser.com
 QMTECH FPGA Module U4;<no datasheet>;<no URL>;571-3-534206-2;3-534206-2;mouser.com
+QMTECH FPGA Module U5;<no datasheet>;<no URL>;571-3-534206-2;3-534206-2;mouser.com
 MountingHole_Pad;none;none;none;none;NONE
 KBD JTAG EN;<no datasheet>;<no URL>;855-M20-9990345;M20-9990345;mouser.com
 Keyboard JTAG header;<no datasheet>;<no URL>;649-1012938191001BLF;10129381-910001BLF;mouser.com
+UART;<no datasheet>;<no URL>;855-M20-9990346;M20-9990346;mouser.com
+C64_User_Port;none;none;none;none;NONE
+C64_Tape_Port;none;none;none;none;NONE
+Joystick Ports Mezannine Upper;<no datasheet>;<no URL>;649-1012938194002BLF;10129381-940002BLF;mouser.com
+Joystick Ports Mezannine Lower;<no datasheet>;<no URL>;200-SSW12022FDVSKTR;SSW-120-22-F-D-VS-K-TR;mouser.com
+LM2678T-5.0;<no datasheet>;<no URL>;926-LM2678T-5.0/NOPB;LM2678T-5.0/NOPB;mouser.com
+PTN3363BSMP;<no datasheet>;<no URL>;771-PTN3363BSMP;PTN3363BSMP;mouser.com
+Reset Button;<no datasheet>;<no URL>;688-SPUJ191500;SPUJ191500;mouser.com
+4609X-AP1-332LF 3.3Kx8;<no datasheet>;<no URL>;652-4609X-AP1-332LF;4609X-AP1-332LF;mouser.com
+Full-side CD Card Slot;<no datasheet>;<no URL>;945-FPS009-2409-0;FPS009-2409-0;mouser.com
+22uH, eg SC30R22KT;<no datasheet>;<no URL>;652-9250A-223-RC;9250A-223-RC;mouser.com
+Component A/V;<no datasheet>;<no URL>;490-SDF-80J;SDF-80J;mouser.com
+DB15_Female_HighDensity_MountingHoles;<no datasheet>;<no URL>;649-ICD15S13E4GV00LF;ICD15S13E4GV00LF;mouser.com
+Audio Header;<no datasheet>;<no URL>;855-M20-9990546;M20-9990546;mouser.com
+CON-SOCJ-2155;<no datasheet>;<no URL>;992-CON-SOCJ-2155;CON-SOCJ-2155;mouser.com
+1140084168 microSD Card Slot;<no datasheet>;<no URL>;523-114-00841-68;1140084168;mouser.com
+RTC;<no datasheet>;<no URL>;855-M20-9990546;M20-9990546;mouser.com
+QMTECH JTAG;<no datasheet>;<no URL>;855-M20-9990646;M20-9990646;mouser.com
+Fuse Holder 5A;<no datasheet>;<no URL>;710-696101000002;696101000002;mouser.com
+FerriteBead FT-3AMB4ARLY-PF;<no datasheet>;<no URL>;205-FT-3AMB4ARLY-PF;FT-3AM B4ARLY-PF;mouser.com
+5V 40V 1N5825;<no datasheet>;<no URL>;637-SB1240-3G;SB1240-3G;mouser.com
+180uF 16V;<no datasheet>;<no URL>;710-860020373009;860020373009;mouser.com
+100nF 50V;<no datasheet>;<no URL>;594-K104K10X7RF5TL2;K104K10X7RF5TL2;mouser.com
+0.47uF eg FG28X7R1H474KRT0;<no datasheet>;<no URL>;810-FG28X7R1H474KRT0;FG28X7R1H474KRT00;mouser.com
+15uF 50V;<no datasheet>;<no URL>;710-860160672010;860160672010;mouser.com
+0.1uF;<no datasheet>;<no URL>;594-K104K15X7RF5UL2;K104K15X7RF5UL2;mouser.com
+10uF;<no datasheet>;<no URL>;80-C430C106K3R5TA;C430C106K3R5TA;mouser.com
+1uF;<no datasheet>;<no URL>;80-C420C105K5R5TAUTO;C420C105K5R5TA91707200;mouser.com
+0.01uF, eg K103Z15Y5VE5TH5;<no datasheet>;<no URL>;594-K103Z15Y5VE5TH5;K103Z15Y5VE5TH5;mouser.com
+1.2nF;<no datasheet>;<no URL>;581-SR211C122KARTR1;SR211C122KARTR1;mouser.com
