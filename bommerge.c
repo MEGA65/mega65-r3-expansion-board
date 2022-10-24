@@ -102,7 +102,7 @@ int main(int argc,char **argv)
 	if (part_id!=-1) {
 	  char filename[8192];
 	  snprintf(filename,8192,"%s.csv",partsource[part_id]);
-	  FILE *f=fopen(filename,"w");
+	  FILE *f=fopen(filename,"a");
 	  dequote(num);
 	  fprintf(f,"%s;%s;%s\n",
 		  partnumbers[part_id],
