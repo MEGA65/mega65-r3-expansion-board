@@ -351,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mega65cr-r1.kicad_pro",
+    "filename": "mega65-r3-expansion-board.kicad_pro",
     "version": 1
   },
   "net_settings": {
