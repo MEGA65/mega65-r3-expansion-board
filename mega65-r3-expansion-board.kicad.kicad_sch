@@ -1855,6 +1855,9 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/70d54703-2ee3-4137-a2c5-4cbd12bedce3"
       (reference "#PWR0149") (unit 1) (value "GND") (footprint "")
     )
+    (path "/48871385-9b55-4bb1-8319-1c951289d910/6e4bf51c-d15c-4526-98da-79e289748980"
+      (reference "#PWR0150") (unit 1) (value "GND") (footprint "")
+    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/137537bf-3fde-4267-8afa-b6c2be45d72d"
       (reference "#PWR0155") (unit 1) (value "+5V") (footprint "")
     )
@@ -1948,9 +1951,6 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/33c4f161-4a16-4e21-925b-ed843d4d7f84"
       (reference "#PWR0340") (unit 1) (value "GND") (footprint "")
     )
-    (path "/48871385-9b55-4bb1-8319-1c951289d910/6e4bf51c-d15c-4526-98da-79e289748980"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/0ca96528-9b31-4b4f-85ac-2bee2652f8e5"
       (reference "H8") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
@@ -1993,6 +1993,9 @@
     (path "/48871385-9b55-4bb1-8319-1c951289d910/1f42507b-d43a-4e7d-ab46-99c579a1e499"
       (reference "J4") (unit 1) (value "Conn_02x17_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
     )
+    (path "/48871385-9b55-4bb1-8319-1c951289d910/84b4f6a6-a5c3-4739-ad9d-189049391990"
+      (reference "J5") (unit 1) (value "Conn_02x17_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
+    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/72f82b5f-d1e2-4c07-bea8-f735acffef86"
       (reference "J17") (unit 1) (value "C64_Tape_Port") (footprint "HackupNet:C64-Cassette-Port-Male")
     )
@@ -2010,9 +2013,6 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/d013c794-e5ab-41e0-a543-c99deca99a40"
       (reference "J35") (unit 1) (value "Conn_01x04") (footprint "snapeda:FloppyPower")
-    )
-    (path "/48871385-9b55-4bb1-8319-1c951289d910/84b4f6a6-a5c3-4739-ad9d-189049391990"
-      (reference "J?") (unit 1) (value "Conn_02x17_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/d0e2046d-8491-4bb4-8f1a-c8a78ca07bfd"
       (reference "R1") (unit 1) (value "3K3") (footprint "snapeda:Labeled Resistor")
