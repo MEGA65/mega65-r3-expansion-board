@@ -1705,9 +1705,6 @@
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/480d74f8-aa08-4b6a-8b9f-c8000c3aedaf"
       (reference "#G1") (unit 1) (value "LOGO") (footprint "snapeda:MEGA65-logo")
     )
-    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/2868be52-a242-4ff7-8286-d525ad6b7ec5"
-      (reference "#LOGO1") (unit 1) (value "Logo_Open_Hardware_Large") (footprint "Symbol:OSHW-Logo2_14.6x12mm_SilkScreen")
-    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/1714a7de-e78c-4961-8bef-799858993913"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -2013,6 +2010,9 @@
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/d013c794-e5ab-41e0-a543-c99deca99a40"
       (reference "J35") (unit 1) (value "Conn_01x04") (footprint "snapeda:FloppyPower")
+    )
+    (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/2868be52-a242-4ff7-8286-d525ad6b7ec5"
+      (reference "LOGO1") (unit 1) (value "Logo_Open_Hardware_Large") (footprint "Symbol:OSHW-Logo2_14.6x12mm_SilkScreen")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/d0e2046d-8491-4bb4-8f1a-c8a78ca07bfd"
       (reference "R1") (unit 1) (value "3K3") (footprint "snapeda:Labeled Resistor")

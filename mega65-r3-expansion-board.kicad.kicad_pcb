@@ -91,7 +91,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../mega65cr-r1-gerbers/")
+      (outputdirectory "../mega65-r3-expansion-board-gerbers/")
     )
   )
 
