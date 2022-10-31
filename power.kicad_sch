@@ -2549,7 +2549,7 @@
     )
   )
 
-  (text "Power supplies for MEGA65 R5-CR" (at 193.675 191.135 0)
+  (text "Power supplies for MEGA65 R3/R3A/R4 Expansion Board" (at 193.675 191.135 0)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 67f2a5bc-f2ed-40b6-9bc6-52bcd5b371e4)
   )
