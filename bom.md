@@ -30,7 +30,7 @@ save a bit of cost.
 
 | Positions     | Count | Part      |
 |---------------|-------|-----------|
-| J18           | 1     | BA60BCOWT |
+| J18           | 1     | BA60BC0WT |
 
 
 ## Parts for Component Video Port
