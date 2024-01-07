@@ -1661,7 +1661,7 @@
     (stroke (width 0.25) (type solid) (color 0 0 0 0))
     (fill (color 255 208 70 1.0000))
     (uuid 3e79ecec-be2d-46e5-9b86-3d84ade3f323)
-    (property "Sheet name" "VGA, C64 AV & C64 Keyboard" (id 0) (at 26.67 127.635 0)
+    (property "Sheet name" "Composite and component video output" (id 0) (at 113.03 127 0)
       (effects (font (size 3 3) bold) (justify left bottom))
     )
     (property "Sheet file" "vga.kicad_sch" (id 1) (at 26.3398 134.8486 0)
