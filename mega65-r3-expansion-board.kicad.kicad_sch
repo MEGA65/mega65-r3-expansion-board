@@ -2059,9 +2059,6 @@
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/0041f065-3695-467e-874d-38bd330e5146"
       (reference "R12") (unit 1) (value "1K") (footprint "snapeda:Labeled Resistor")
     )
-    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c1a18f74-a42c-4afc-acea-8274e502b185"
-      (reference "R13") (unit 1) (value "1K") (footprint "snapeda:Labeled Resistor")
-    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/828856c6-9105-437f-86a1-cd1dbfbb0736"
       (reference "R14") (unit 1) (value "1K") (footprint "snapeda:Labeled Resistor")
     )
