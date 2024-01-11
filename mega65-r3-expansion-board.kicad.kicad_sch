@@ -1948,6 +1948,12 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/7a03aa36-9964-43f3-857e-c0724f1bf047"
       (reference "#PWR081") (unit 1) (value "GND") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/011290e3-65fd-4e0a-adaf-c24e779179a9"
+      (reference "#PWR0101") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/6f07f32b-ade2-479b-a297-48c67497ea83"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
+    )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/0ca96528-9b31-4b4f-85ac-2bee2652f8e5"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
