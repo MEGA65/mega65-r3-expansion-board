@@ -1955,7 +1955,13 @@
       (reference "#PWR083") (unit 1) (value "GND") (footprint "")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/c2e9b57d-0635-43ba-b26c-9c06d403d337"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/5bd3c37e-064a-48f5-955e-5fd9664a8a81"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/b9ea9d88-9913-47cc-8625-200221140b58"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/40f6e887-23fc-4a76-aea9-691bca8d4e9c"
       (reference "D1") (unit 1) (value "D_Zener_3.3V") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
@@ -2145,6 +2151,12 @@
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/f6c43bf9-ecfd-4391-8eec-261c608111b3"
       (reference "R37") (unit 1) (value "4K0") (footprint "snapeda:Labeled Resistor")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/228b35e6-26ac-4c0a-9f16-dd5f27155f7b"
+      (reference "R?") (unit 1) (value "3K3") (footprint "snapeda:Labeled Resistor")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/a7d9539f-9f1c-4597-a98c-566b520d1c7b"
+      (reference "R?") (unit 1) (value "3K3") (footprint "snapeda:Labeled Resistor")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/7b50cf3a-ab1f-4db0-b0b3-48d88be0a9a6"
       (reference "U1") (unit 1) (value "74LS595") (footprint "snapeda:DIP-16_LS_Family")
