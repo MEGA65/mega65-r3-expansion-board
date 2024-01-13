@@ -1993,6 +1993,9 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/7a03aa36-9964-43f3-857e-c0724f1bf047"
       (reference "#PWR096") (unit 1) (value "GND") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/19a81270-043d-4c41-9cd4-8029dbcf653e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/4d8e36cf-c45e-4703-9e63-2818c46db635"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
@@ -2022,6 +2025,9 @@
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/5c81ced8-c388-495c-85cc-5b70adcdf9a1"
       (reference "C10") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
+    )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/d3810a67-1f2d-45fa-ba35-1b18108c5199"
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
     (path "/cd7afc30-e644-4a23-9f17-325d3146c7db/0ca96528-9b31-4b4f-85ac-2bee2652f8e5"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
