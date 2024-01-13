@@ -1996,6 +1996,9 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/7a03aa36-9964-43f3-857e-c0724f1bf047"
       (reference "#PWR097") (unit 1) (value "GND") (footprint "")
     )
+    (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/abdffcc8-ec2d-48bb-8ab6-565aa72c0943"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/4d8e36cf-c45e-4703-9e63-2818c46db635"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
