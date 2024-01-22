@@ -1063,7 +1063,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x17_Odd_Even") (at 170.18 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4641dd2b-8a78-420d-8cf9-d253cde42a58)
-    (property "Reference" "J4" (id 0) (at 171.45 39.37 0))
+    (property "Reference" "J12" (id 0) (at 171.45 39.37 0))
     (property "Value" "Conn_02x17_Top_Bottom" (id 1) (at 171.45 41.91 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" (id 2) (at 170.18 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1203,7 +1203,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 48.26 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ea63a27d-5892-4a4a-b73a-f603e7d18c36)
-    (property "Reference" "J2" (id 0) (at 50.8 119.3799 0)
+    (property "Reference" "J13" (id 0) (at 50.8 119.3799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04" (id 1) (at 50.8 121.9199 0)
@@ -1254,14 +1254,14 @@
     (path "/e081bfea-a76c-4079-8eff-f74da9d0a8b9"
       (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/ea63a27d-5892-4a4a-b73a-f603e7d18c36"
-      (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
-    )
     (path "/5e2b1b60-5db0-4075-8d2c-1c593da01486"
       (reference "J3") (unit 1) (value "Conn_02x17_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
     )
     (path "/4641dd2b-8a78-420d-8cf9-d253cde42a58"
-      (reference "J4") (unit 1) (value "Conn_02x17_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
+      (reference "J12") (unit 1) (value "Conn_02x17_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
+    )
+    (path "/ea63a27d-5892-4a4a-b73a-f603e7d18c36"
+      (reference "J13") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/db6f34f2-3650-4262-8a8c-0ff568fe194f"
       (reference "JB1") (unit 1) (value "Conn_02x06_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical")
