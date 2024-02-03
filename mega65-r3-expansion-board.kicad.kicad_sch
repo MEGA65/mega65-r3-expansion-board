@@ -2200,7 +2200,13 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/127a3588-1789-4bd8-ab18-accbd2cdb4fb"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/1dbf6727-caee-4921-9e50-70816126904b"
+      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
+    )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/2dbd5a38-2ab9-4ad1-a0c6-ad862c9de6d3"
+      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/408a5927-0cdf-4a5a-98ae-dec72d46b684"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/4326e2ac-d204-46a3-a35e-16b90eb78eb3"
@@ -2212,28 +2218,19 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/4eda48ef-7e5f-4113-93f7-0c9f2ac4b6f5"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
-    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/5cea8440-7067-477a-a56a-db3395567d7d"
-      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
-    )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/61d401ba-9a92-46cf-9e74-830b4bae03e8"
-      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
-    )
-    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/71e059aa-09b1-4dcd-a622-47afdb4ee0a2"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/7223a7d7-c429-48e6-ab91-e3f32a1ea53d"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
-    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/73082634-bf2b-4e66-8c14-e2c11d980ca0"
-      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
-    )
-    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/9540c0d9-6fae-4b60-90b7-9538416664f2"
-      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
-    )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/96a73b44-27f4-4bdc-8995-35b04dd296be"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
-    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/a2c0827d-27e7-459e-b74e-82b71d0bcf7d"
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/98ef74fe-9f6f-4a93-a343-dabf1e318655"
+      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/ad7210fd-fda0-4203-bd88-6fbba344bad9"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/b74d0c12-845d-4162-a938-68d028f8d527"
@@ -2242,7 +2239,10 @@
     (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/bff59cf0-9a34-4e75-afb3-4439df6aff85"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
-    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/c1e2b2d5-b135-4890-a404-8241f04d75a4"
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/d1806295-3761-4a05-aab0-0c905879edee"
+      (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
+    )
+    (path "/3e79ecec-be2d-46e5-9b86-3d84ade3f323/ecb4b085-3a77-4b3c-94de-656a2483f6a4"
       (reference "R?") (unit 1) (value "1K0") (footprint "snapeda:Labeled Resistor")
     )
     (path "/021c7e3b-ea95-4afa-9d1d-76ae503bbd65/7b50cf3a-ab1f-4db0-b0b3-48d88be0a9a6"
