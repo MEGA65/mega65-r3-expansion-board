@@ -1,3 +1,6 @@
 [submodule "HackupNet-KiCad-Libraries"]
 	path = HackupNet-KiCad-Libraries
 	url = git@github.com:hackup/HackupNet-KiCad-Libraries.git
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = git@github.com:espressif/kicad-libraries.git
