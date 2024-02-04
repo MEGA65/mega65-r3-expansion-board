@@ -1063,7 +1063,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x17_Odd_Even") (at 170.18 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4641dd2b-8a78-420d-8cf9-d253cde42a58)
-    (property "Reference" "J12" (id 0) (at 171.45 39.37 0))
+    (property "Reference" "J3" (id 0) (at 171.45 39.37 0))
     (property "Value" "Conn_02x17_Top_Bottom" (id 1) (at 171.45 41.91 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" (id 2) (at 170.18 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1110,7 +1110,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x17_Odd_Even") (at 133.35 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5e2b1b60-5db0-4075-8d2c-1c593da01486)
-    (property "Reference" "J3" (id 0) (at 134.62 38.1 0))
+    (property "Reference" "J12" (id 0) (at 134.62 38.1 0))
     (property "Value" "Conn_02x17_Top_Bottom" (id 1) (at 134.62 40.64 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" (id 2) (at 133.35 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1254,10 +1254,10 @@
     (path "/e081bfea-a76c-4079-8eff-f74da9d0a8b9"
       (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/5e2b1b60-5db0-4075-8d2c-1c593da01486"
+    (path "/4641dd2b-8a78-420d-8cf9-d253cde42a58"
       (reference "J3") (unit 1) (value "Conn_02x17_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
     )
-    (path "/4641dd2b-8a78-420d-8cf9-d253cde42a58"
+    (path "/5e2b1b60-5db0-4075-8d2c-1c593da01486"
       (reference "J12") (unit 1) (value "Conn_02x17_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical")
     )
     (path "/ea63a27d-5892-4a4a-b73a-f603e7d18c36"
