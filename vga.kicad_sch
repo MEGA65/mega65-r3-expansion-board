@@ -1359,11 +1359,6 @@
     )
   )
 
-  (text "NOTE: We present only LUMA on the COMPOSITE pin 4,\nbecause we don't have enough spare lines to the FPGA\nat present to generate a separate composite signal.\nOnce the board has been tested, its likely that we \ncan demote some lines from direct FPGA connections to\nfree up the 6 pins we would need."
-    (at 167.894 115.189 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 4d73e324-f321-4005-a6ba-ca6985e949b7)
-  )
   (text "15 Oct 2022" (at 212.979 194.183 0)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 5d7c20e6-4c04-4746-acb7-9acd1b903a29)
