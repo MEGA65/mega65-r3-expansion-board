@@ -2348,7 +2348,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "1565_LD_3V3" (shape input) (at 72.39 80.01 180) (fields_autoplaced)
+  (global_label "1565_LD_3V3" (shape output) (at 72.39 80.01 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid fdba6b21-b772-4dde-a5a3-ac8543265c11)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 57.4801 80.01 0)

@@ -1645,11 +1645,11 @@
     (uuid f62ac54a-267a-4846-96a7-0a98fb665d15)
   )
 
-  (sheet (at 26.1366 63.8175) (size 242.443 27.2415)
+  (sheet (at 26.1366 63.8175) (size 168.1734 27.2415)
     (stroke (width 0.25) (type solid))
     (fill (color 54 142 255 1.0000))
     (uuid 021c7e3b-ea95-4afa-9d1d-76ae503bbd65)
-    (property "Sheetname" "User Port, Tape Port & C1565 Port" (at 107.4928 80.8482 0)
+    (property "Sheetname" "User Port & Tape Port" (at 88.9 81.28 0)
       (effects (font (size 3 3) bold) (justify left bottom))
     )
     (property "Sheetfile" "userport.kicad_sch" (at 26.7716 88.5825 0)
@@ -1658,6 +1658,23 @@
     (instances
       (project "mega65-r3-expansion-board.kicad"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 194.3072 63.7735) (size 74.2938 27.2606)
+    (stroke (width 0.25) (type solid))
+    (fill (color 0 0 255 1.0000))
+    (uuid 146a8bef-6809-4ca3-9c51-e7afef5be129)
+    (property "Sheetname" "C1565 External C65 Drive Port" (at 195.58 78.74 0)
+      (effects (font (size 3 3) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "c1565.kicad_sch" (at 194.31 88.9 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "mega65-r3-expansion-board.kicad"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "6"))
       )
     )
   )
