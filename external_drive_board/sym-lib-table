@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "00Project")(type "KiCad")(uri "/home/paul/Projects/mega65/pcb-designs/mega65-r3-expansion/mega65-r3-expansion-board/library/MD-90SM.kicad_sym")(options "")(descr ""))
+)
