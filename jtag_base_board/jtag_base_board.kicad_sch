@@ -1681,144 +1681,6 @@
 		)
 	)
 	(sheet
-		(at 26.1366 63.8175)
-		(size 168.1734 27.2415)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(fill
-			(color 54 142 255 1)
-		)
-		(uuid "021c7e3b-ea95-4afa-9d1d-76ae503bbd65")
-		(property "Sheetname" "User Port & Tape Port"
-			(at 88.9 81.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 3 3)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "userport.kicad_sch"
-			(at 26.7716 88.5825 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "jtag_base_board"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 194.3072 63.7735)
-		(size 74.2938 27.2606)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(fill
-			(color 0 0 255 1)
-		)
-		(uuid "146a8bef-6809-4ca3-9c51-e7afef5be129")
-		(property "Sheetname" "C1565 External C65 Drive Port"
-			(at 195.58 78.74 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 3 3)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "c1565.kicad_sch"
-			(at 194.31 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "jtag_base_board"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 25.9969 113.411)
-		(size 242.5573 23.6982)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.25)
-			(type solid)
-		)
-		(fill
-			(color 255 208 70 1)
-		)
-		(uuid "3e79ecec-be2d-46e5-9b86-3d84ade3f323")
-		(property "Sheetname" "Composite and component video output"
-			(at 113.03 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 3 3)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "vga.kicad_sch"
-			(at 26.3398 134.8486 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "jtag_base_board"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "10")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 26.035 91.0336)
 		(size 242.57 22.225)
 		(exclude_from_sim no)
@@ -1865,7 +1727,7 @@
 		)
 	)
 	(sheet
-		(at 25.9969 137.287)
+		(at 25.9969 113.157)
 		(size 242.4557 18.0086)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1880,7 +1742,7 @@
 		)
 		(uuid "cd7afc30-e644-4a23-9f17-325d3146c7db")
 		(property "Sheetname" "Power Supply & Mounting Holes"
-			(at 109.22 148.59 0)
+			(at 109.22 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1892,7 +1754,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 26.9494 152.2095 0)
+			(at 26.9494 128.0795 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

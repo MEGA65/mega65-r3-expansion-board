@@ -667,27 +667,15 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "mega65-r3-expansion-board.kicad"
+      "jtag_base_board"
     ],
     [
       "cd7afc30-e644-4a23-9f17-325d3146c7db",
       "Power Supply & Mounting Holes"
     ],
     [
-      "146a8bef-6809-4ca3-9c51-e7afef5be129",
-      "C1565 External C65 Drive Port"
-    ],
-    [
-      "021c7e3b-ea95-4afa-9d1d-76ae503bbd65",
-      "User Port & Tape Port"
-    ],
-    [
       "48871385-9b55-4bb1-8319-1c951289d910",
       "Multiplexor Interconnect Bus"
-    ],
-    [
-      "3e79ecec-be2d-46e5-9b86-3d84ade3f323",
-      "Composite and component video output"
     ]
   ],
   "text_variables": {},
