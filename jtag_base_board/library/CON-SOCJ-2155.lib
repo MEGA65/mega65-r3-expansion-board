@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# CON-SOCJ-2155
+#
+DEF CON-SOCJ-2155 J 0 40 Y N 1 L N
+F0 "J" -200 200 50 H V L BNN
+F1 "CON-SOCJ-2155" -200 -170 50 H V L BNN
+F2 "GRAVITECH_CON-SOCJ-2155" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "11.1 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F5 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F6 "NA" 0 0 50 H I L BNN "PARTREV"
+F7 "Gravitech" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+P 2 0 0 10 150 150 150 50 N
+P 2 0 0 10 150 50 -200 50 N
+P 2 0 0 10 30 0 200 0 N
+P 2 0 0 10 30 0 30 -70 N
+P 4 0 0 10 30 -70 20 -40 40 -40 30 -70 f
+P 2 0 0 10 -100 -100 -50 -50 N
+P 2 0 0 10 -50 -50 0 -100 N
+P 2 0 0 10 150 100 200 100 N
+S -210 -95 190 155 0 0 10 f
+X ~ 2 400 0 200 L 40 40 0 0 P 
+X ~ 3 400 -100 200 L 40 40 0 0 P 
+X ~ 1 400 100 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
